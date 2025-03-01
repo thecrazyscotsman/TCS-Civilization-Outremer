@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_MODULE_TCS_OUTREMER_NAME">
+			<Text>Outremer</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_TCS_OUTREMER_DESCRIPTION">
+			<Text>Contains a new exploration age Civilization, Outremer.</Text>
+		</Row>
+		<Row Tag="LOC_MODULE_TCS_OUTREMER_AUTHORS">
+			<Text>thecrazyscotsman</Text>
+		</Row>
+	</EnglishText>
+</Database>

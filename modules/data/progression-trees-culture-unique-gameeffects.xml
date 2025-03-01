@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+	<!--Outremer-->
+	<Modifier id="TCS_DEUS_VULT_MOD_COMMANDER_PROMOTION" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_GRANT_UNIT_PROMOTION">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_TAG_MATCHES">
+				<Argument name="Tag">UNIT_CLASS_ARMY_COMMANDER</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="UnitPromotionType">PROMOTION_ARMY_REGIMENTS</Argument>
+		<Argument name="UnitPromotionDisciplineType">DISCIPLINE_ARMY_LOGISTICS</Argument>
+		<String context="Description">LOC_MOD_TCS_CIVIC_DEUS_VULT_TIER_1_DESCRIPTION</String>
+	</Modifier>
+	
+	<Modifier id="TCS_DEUS_VULT_MOD_DISTANT_LANDS_FOOD" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_IS_DISTANT_LANDS"/>
+		</SubjectRequirements>
+		<Argument name="YieldType">YIELD_FOOD</Argument>
+		<Argument name="Amount">4</Argument>
+		<String context="Description">LOC_MOD_TCS_CIVIC_DEUS_VULT_TIER_2_FOOD_DESCRIPTION</String>
+	</Modifier>
+	
+	<Modifier id="TCS_DEUS_VULT_MOD_DISTANT_LANDS_INFLUENCE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_IS_DISTANT_LANDS"/>
+		</SubjectRequirements>
+		<Argument name="YieldType">YIELD_DIPLOMACY</Argument>
+		<Argument name="Amount">1</Argument>
+		<String context="Description">LOC_MOD_TCS_CIVIC_DEUS_VULT_TIER_2_INFLUENCE_DESCRIPTION</String>
+	</Modifier>
+	
+	<Modifier id="TCS_PAX_ET_TREUGA_DEI_MOD_ADJUST_MILITARY_AID" collection="COLLECTION_OWNER" effect="EFFECT_DIPLOMACY_ADJUST_DIPLOMATIC_ACTION_TYPE_EFFICIENCY">
+		<Argument name="ActionType">DIPLOMACY_ACTION_MILITARY_AID</Argument>
+		<Argument name="Percent">50</Argument>
+		<String context="Description">LOC_MOD_TCS_CIVIC_PAX_ET_TREUGA_DEI_TIER_1_DESCRIPTION</String>
+	</Modifier>
+	
+	<Modifier id="TCS_ADVOCATUS_SANCTI_SEPULCHRI_MOD_RELIC_SLOT_TEMPLE" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_GREAT_WORK_SLOTS">
+		<Argument name="ConstructibleType">BUILDING_TEMPLE</Argument>
+		<Argument name="SlotType">GREATWORKSLOT_RELIC</Argument>
+		<Argument name="Amount">1</Argument>
+		<String context="Description">LOC_MOD_TCS_CIVIC_ADVOCATUS_SANCTI_SEPULCHRI_TIER_2_DESCRIPTION</String>
+	</Modifier>
+	
+	<Modifier id="TCS_ADVOCATUS_SANCTI_SEPULCHRI_MOD_RELIC" collection="COLLECTION_OWNER" effect="EFFECT_GRANT_GREAT_WORK" run-once="true" permanent="true">
+		<Argument name="Amount">2</Argument>
+		<Argument name="ObjectType">GREATWORKOBJECT_RELIC</Argument>
+		<String context="Description">LOC_MOD_TCS_CIVIC_ADVOCATUS_SANCTI_SEPULCHRI_TIER_2_RELICS_DESCRIPTION</String>
+	</Modifier>
+	
+	<Modifier id="TCS_ADVOCATUS_SANCTI_SEPULCHRI_MOD_COMMANDERY_INFLUENCE" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_ADJUST_CONSTRUCTIBLE_YIELD">
+		<Argument name="YieldType">YIELD_DIPLOMACY</Argument>
+		<Argument name="Amount">2</Argument>
+		<Argument name="ConstructibleType">BUILDING_TCS_COMMANDERY</Argument>
+		<String context="Description">LOC_MOD_TCS_CIVIC_ADVOCATUS_SANCTI_SEPULCHRI_TIER_2_RELICS_DESCRIPTION</String>
+	</Modifier>
+</GameEffects>

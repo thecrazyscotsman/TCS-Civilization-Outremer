@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="tcs-outremer" version="1"
+	xmlns="ModInfo">
+	<Properties>
+		<Name>LOC_MODULE_TCS_OUTREMER_NAME</Name>
+		<Description>LOC_MODULE_TCS_OUTREMER_DESCRIPTION</Description>
+		<Authors>LOC_MODULE_TCS_OUTREMER_AUTHORS</Authors>
+		<Package>MOD</Package>
+	</Properties>
+	<Dependencies>
+		<Mod id="base-standard" title="LOC_MODULE_BASE_STANDARD_NAME"/>
+	</Dependencies>
+	<ActionCriteria>
+		<Criteria id="antiquity-age-current">
+			<AgeInUse>AGE_ANTIQUITY</AgeInUse>
+		</Criteria>
+		<Criteria id="exploration-age-current">
+			<AgeInUse>AGE_EXPLORATION</AgeInUse>
+		</Criteria>
+		<Criteria id="modern-age-current">
+			<AgeInUse>AGE_MODERN</AgeInUse>
+		</Criteria>
+		<Criteria id="exploration-age-persist" any="true">
+			<AgeInUse>AGE_EXPLORATION</AgeInUse>
+			<AgeInUse>AGE_MODERN</AgeInUse>
+		</Criteria>
+		<Criteria id="always">
+			<AlwaysMet></AlwaysMet>
+		</Criteria>
+	</ActionCriteria>
+	<ActionGroups>
+		<ActionGroup id="base-game-main-tcs-outremer" scope="game" criteria="always">
+			<Actions>
+				<ImportFiles>
+					<Item>assets/icons/civ_sym_tcs_outremer</Item>
+                    <Item>assets/icons/civ_sym_tcs_outremer.png</Item>
+					<Item>assets/icons/unitflag_tcs_crusader.png</Item>
+					<Item>assets/icons/unitflag_tcs_pilgrim.png</Item>
+					<Item>assets/icons/buildicon_tcs_commandery.png</Item>
+					<Item>assets/icons/cult_tcs_outremer.png</Item>
+                </ImportFiles>
+				<UpdateDatabase>
+					<Item>data/civilizations-legacy.xml</Item>
+					<Item>data/named-places.xml</Item>
+					<!--<Item>data/narrative-stories-gameeffects.xml</Item>
+					<Item>data/narrative-stories.xml</Item>-->
+					<Item>data/traditions.xml</Item>
+					<Item>data/traditions-gameeffects.xml</Item>
+					<Item>data/unlocks-base-standard.xml</Item>
+				</UpdateDatabase>
+				<UpdateIcons>
+					<Item>icons/icons.xml</Item>
+				</UpdateIcons>
+				<UpdateText>
+					<Item>text/en_us/ModuleText.xml</Item>
+					<Item>text/en_us/CultureText.xml</Item>
+					<Item>text/en_us/CivilopediaText.xml</Item>
+					<Item>text/en_us/LoadingText.xml</Item>
+					<Item>text/en_us/NamedPlacesText.xml</Item>
+					<!--<Item>text/en_us/NarrativeStoriesText.xml</Item>-->
+					<Item>text/en_us/UnlockText.xml</Item>
+					<Item>text/en_us/CivilizationLegacyText.xml</Item>
+				</UpdateText>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="age-antiquity-main-tcs-outremer" scope="game" criteria="antiquity-age-current">
+			<Actions>
+				<UpdateDatabase>
+					<Item>data/unlocks-antiquity.xml</Item>
+					<!--<Item>data/narrative-stories-gameeffects-antiquity.xml</Item>
+					<Item>data/narrative-stories-antiquity.xml</Item>-->
+				</UpdateDatabase>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="age-exploration-persist-tcs-outremer" scope="game" criteria="exploration-age-persist">
+			<Actions>
+				<UpdateDatabase>
+					<Item>data/constructibles.xml</Item>
+				</UpdateDatabase>
+				<UpdateText>
+					<Item>text/en_us/CityNamesText.xml</Item>
+					<Item>text/en_us/ConstructibleText.xml</Item>
+				</UpdateText>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="age-exploration-main-tcs-outremer" scope="game" criteria="exploration-age-current">
+			<Actions>
+				<UpdateDatabase>
+					<Item>data/citizen-names.xml</Item>
+					<Item>data/civilizations-exploration.xml</Item>
+					<Item>data/civilizations-gameeffects.xml</Item>
+					<Item>data/loading-info-exploration.xml</Item>
+					<!--<Item>data/narrative-stories-gameeffects-exploration.xml</Item>
+					<Item>data/narrative-stories-exploration.xml</Item>-->
+					<Item>data/progression-trees-culture-unique.xml</Item>
+					<Item>data/progression-trees-culture-unique-gameeffects.xml</Item>
+					<Item>data/progression-trees-tech.xml</Item>
+					<Item>data/units.xml</Item>
+					<Item>data/units-gameeffects.xml</Item>
+					<Item>data/AI_Exploration.xml</Item>
+				</UpdateDatabase>
+				<UpdateText>
+					<Item>text/en_us/CitizenNamesText.xml</Item>
+					<Item>text/en_us/CivilizationText.xml</Item>
+					<Item>text/en_us/UnitText.xml</Item>
+				</UpdateText>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="shell-tcs-outremer" scope="shell" criteria="always">
+			<Actions>
+				<ImportFiles>
+					<Item>assets/icons/civ_sym_tcs_outremer</Item>
+                    <Item>assets/icons/civ_sym_tcs_outremer.png</Item>
+					<Item>assets/icons/unitflag_tcs_crusader.png</Item>
+					<Item>assets/icons/unitflag_tcs_pilgrim.png</Item>
+					<Item>assets/icons/buildicon_tcs_commandery.png</Item>
+					<Item>assets/icons/cult_tcs_outremer.png</Item>
+                </ImportFiles>
+				<UpdateDatabase>
+					<Item>config/config.xml</Item>
+				</UpdateDatabase>
+				<UpdateIcons>
+					<Item>icons/icons.xml</Item>
+				</UpdateIcons>
+				<UpdateText>
+					<Item>text/en_us/CivilopediaText.xml</Item>
+					<Item>text/en_us/CivilizationLegacyText.xml</Item>
+					<Item>text/en_us/CivilizationText.xml</Item>
+					<Item>text/en_us/ConstructibleText.xml</Item>
+					<Item>text/en_us/LoadingText.xml</Item>
+					<Item>text/en_us/UnitText.xml</Item>
+					<Item>text/en_us/UnlockText.xml</Item>
+				</UpdateText>
+			</Actions>
+		</ActionGroup>
+	</ActionGroups>
+	<LocalizedText>
+		<File>text/en_us/ModuleText.xml</File>
+	</LocalizedText>
+</Mod>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+	<!-- ==================================================	-->
+	<!--				Civ-Specific Traits					-->
+	<!-- ==================================================	-->
+	<!-- TCS_OUTREMER -->
+	<Modifier id="MOD_UNITS_ON_GOLDEN_AGE_TCS_OUTREMER" collection="COLLECTION_OWNER" effect="TRIGGER_PLAYER_GRANT_UNIT_ON_GOLDEN_AGE">
+		<Argument name="UnitType">UNIT_TCS_PILGRIM</Argument>
+		<Argument name="Amount">1</Argument>
+	</Modifier>
+	
+	<Modifier id="MOD_GREAT_WORK_INFLUENCE_TCS_OUTREMER" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD_PER_GREAT_WORK">
+		<Argument name="YieldType">YIELD_DIPLOMACY</Argument>
+		<Argument name="Amount">2</Argument>
+		<Argument name="Tooltip">LOC_TRAIT_TCS_OUTREMER_ABILITY_NAME</Argument>
+	</Modifier>
+	
+
+	<!-- ==================================================	-->
+	<!--				Civ-Specific Trees					-->
+	<!-- ==================================================	-->
+	<Modifier id="MOD_REVEAL_CIV_CULTURE_TREE_TCS_OUTREMER" collection="COLLECTION_OWNER" effect="EFFECT_PLAYER_REVEAL_CULTURE_TREE">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLAYER_HAS_CIVILIZATION_OR_LEADER_TRAIT">
+				<Argument name="TraitType">TRAIT_TCS_OUTREMER</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="ProgressionTreeType">TREE_CIVICS_EX_TCS_OUTREMER</Argument>
+	</Modifier>
+	<!-- ==================================================	-->
+	<!--				Wonder Bonuses						-->
+	<!-- ==================================================	-->
+	<Modifier id="MOD_CIV_WONDER_PRODUCTION_TCS_OUTREMER" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_FAVORED_WONDER_PRODUCTION">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLAYER_HAS_CIVILIZATION_OR_LEADER_TRAIT">
+				<Argument name="TraitType">TRAIT_TCS_OUTREMER</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Percent">30</Argument>
+		<String context="Preview">LOC_MOD_CIV_WONDER_PRODUCTION_TCS_OUTREMER_DESCRIPTION</String>
+	</Modifier>
+</GameEffects>

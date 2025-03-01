@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <EnglishText>
+    <!--Civilization Names-->
+    <Row Tag="LOC_CIVILIZATION_TCS_OUTREMER_NAME">
+      <Text>Outremer</Text>
+    </Row>
+    <!--Civilization Full Names-->
+    <Row Tag="LOC_CIVILIZATION_TCS_OUTREMER_FULLNAME">
+      <Text>Outremer</Text>
+    </Row>
+    <!--Civilization Adjectives-->
+    <Row Tag="LOC_CIVILIZATION_TCS_OUTREMER_ADJECTIVE">
+      <Text>Outremer</Text>
+    </Row>
+  </EnglishText>
+</Database>

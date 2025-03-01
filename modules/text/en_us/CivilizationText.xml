@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!--Civilization Traits-->
+		<Row Tag="LOC_TRAIT_TCS_OUTREMER_ABILITY_NAME">
+			<Text>Holy Land</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TCS_OUTREMER_DESCRIPTION">
+			<Text>The Capital receives a Pilgrim at the beginning of every Celebration. Relics generate +2[icon:YIELD_DIPLOMACY] Influence.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_TCS_OUTREMER_ABILITY_DESCRIPTION">
+			<Text>[LIST][LI]The Capital receives a [B]Pilgrim[/B] at the beginning of every [B]Celebration[/B].[LI][B]Relics[/B] generate +2[icon:YIELD_DIPLOMACY] Influence.[LI][B]+30%[icon:YIELD_PRODUCTION] Production [/B]towards constructing [B]Notre Dame[/B].[/LIST]</Text>
+		</Row>
+		<Row Tag="LOC_MOD_CIV_WONDER_PRODUCTION_TCS_OUTREMER_DESCRIPTION">
+			<Text>+30%[icon:YIELD_PRODUCTION] Production from being the Outremer's associated Wonder.</Text>
+		</Row>
+	</EnglishText>
+</Database>

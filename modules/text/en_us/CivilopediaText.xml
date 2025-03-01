@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		
+		<!-- UNIQUE INFRASTRUCTURE-->
+		<!--<Row Tag="LOC_PEDIA_PAGE_IMPROVEMENT__CHAPTER_HISTORY_PARA_1">
+			<Text></Text>
+		</Row>-->
+		<!-- CIVICS-->
+		<!--<Row Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_TCS_OUTREMER__CHAPTER_HISTORY_PARA_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_TCS_OUTREMER__CHAPTER_HISTORY_PARA_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_TCS_OUTREMER__CHAPTER_HISTORY_PARA_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_TCS_OUTREMER__CHAPTER_HISTORY_PARA_1">
+			<Text></Text>
+		</Row>-->
+		<!-- UNIQUE_UNIT-->
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_TCS_CRUSADER_CHAPTER_HISTORY_PARA_1">
+			<Text>Placeholder.</Text>
+		</Row>
+		<!-- UNIQUE_CIVILIAN_UNIT-->
+		<Row Tag="LOC_PEDIA_PAGE_UNIT_TCS_PILGRIM_CHAPTER_HISTORY_PARA_1">
+			<Text>Placeholder.</Text>
+		</Row>
+		
+		<!-- CIVILIZATION_TCS_OUTREMER -->		
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_1">
+			<Text>The First Crusade was preached at the Council of Clermont in 1095 by Pope Urban II, with the goal of assisting the Byzantine Empire against the invasions of the Seljuk Turks. However, the main objective quickly became the control of the Holy Land. Egypt and much of Palestine were controlled by the Arab Shi'ite Fatimid Caliphate, which had extended further into Syria before the arrival of the Seljuqs. Warfare between the Fatimids and Seljuqs caused great disruption for the local Christians and for western pilgrims.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_2">
+			<Text>The crusaders arrived at Jerusalem in June 1099; a few of the neighbouring towns (Ramla, Lydda, Bethlehem, and others) were taken first, and Jerusalem itself was captured on July 15. On 22 July, a council was held in the Church of the Holy Sepulchre to establish a king for the newly created Kingdom of Jerusalem. Raymond IV of Toulouse and Godfrey of Bouillon were recognized as the leaders of the crusade and the siege of Jerusalem. Raymond was the wealthier and more powerful of the two, but at first he refused to become king, perhaps attempting to show his piety and probably hoping that the other nobles would insist upon his election anyway. The more popular Godfrey did not hesitate like Raymond, and accepted a position as secular leader.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_3">
+			<Text>Raymond was incensed and took his army to forage away from the city. The new kingdom, and Godfrey's reputation, was secured with the defeat of the Fatimid Egyptian army under al-Afdal Shahanshah at the Battle of Ascalon one month after the conquest, on August 12, but Raymond and Godfrey's continued antagonism prevented the crusaders from taking control of Ascalon itself. Godfrey increased the boundaries of the kingdom, by capturing Jaffa, Haifa, Tiberias, and other cities, and reducing many others to tributary status. He set the foundations for the system of vassalage in the kingdom, establishing the Principality of Galilee and the County of Jaffa. But his reign was short, and he died of an illness in 1100. His brother Baldwin of Boulogne claimed Jerusalem for himself as "king of the Latins of Jerusalem", laying the path for a secular state. Within this secular framework, a Catholic church hierarchy was established, overtop of the local Eastern Orthodox and Syrian Orthodox authorities, who retained their own hierarchies (the Catholics considered them schismatics and thus illegitimate; and vice versa).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_4">
+			<Text>During Baldwin I's reign, the kingdom expanded even further. The numbers of Latin inhabitants increased, as the minor crusade of 1101 brought reinforcements to the kingdom. Baldwin repopulated Jerusalem with Franks and native Christians, after his expedition across the Jordan in 1115. With help from the Italian city-states and other adventurers, notably King Sigurd I of Norway, Baldwin captured the port cities of Acre (1104), Beirut (1110), and Sidon (1111), while exerting his suzerainty over the other crusader states to the north – Edessa (which he had founded in 1097 during the crusade), Antioch, and Tripoli, which he helped capture in 1109. He successfully defended against Muslim invasions, from the Fatimids at the numerous battles at Ramla and elsewhere in the southwest of the kingdom, and from Damascus and Mosul at the Battle of al-Sannabra in the northeast in 1113.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_5">
+			<Text>Baldwin died without heirs in 1118, during a campaign against Egypt, and the kingdom was offered to his brother Eustace III of Boulogne, who had accompanied Baldwin and Godfrey on the crusade. Eustace was uninterested, and instead the crown passed to Baldwin's relative, probably a cousin, Baldwin of Le Bourg, who had previously succeeded him in Edessa. Baldwin II was an able ruler, and he too successfully defended against Fatimid and Seljuk invasions. Although Antioch was severely weakened after the Battle of Ager Sanguinis in 1119, and Baldwin himself was held captive by the emir of Aleppo from 1122–1124, Baldwin led the crusader states to victory at the Battle of Azaz in 1125. His reign saw the establishment of the first military orders, the Knights Hospitaller and the Knights Templar; the earliest surviving written laws of the kingdom, compiled at the Council of Nablus in 1120; and the first commercial treaty with the Republic of Venice, the Pactum Warmundi, in 1124. The increase of naval and military support from Venice led to the capture of Tyre that year. The influence of Jerusalem was further extended over Edessa and Antioch, where Baldwin II acted as regent when their own leaders were killed in battle, although there were regency governments in Jerusalem as well during Baldwin's captivity. Baldwin was married to the Armenian noblewoman Morphia of Melitene, and had four daughters: Hodierna and Alice, who married into the families of the Count of Tripoli and Prince of Antioch; Ioveta, who became an influential abbess; and the eldest, Melisende, who was his heir and succeeded him upon his death in 1131, with her husband Fulk V of Anjou as king-consort. Their son, the future Baldwin III, was named co-heir by his grandfather.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_6">
+			<Text>After the death of Fulk in 1143, Zengi invaded and conquered Edessa in 1144. Queen Melisende, now regent for her elder son Baldwin III, appointed a new constable, Manasses of Hierges, to head the army after Fulk's death, but Edessa could not be recaptured, despite Zengi's own assassination in 1146. The fall of Edessa shocked Europe, and a Second Crusade arrived in 1148.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_7">
+			<Text>In 1148 the Second Crusade arrived in response to the fall of Edessa to the atabeg Zengi of Mosul. After meeting in Acre in June, the crusading kings Louis VII of France and Conrad III of Germany agreed with Melisende, Baldwin III and the major nobles of the kingdom to attack Damascus. Zengi's territory had been divided amongst his sons after his death, and Damascus no longer felt threatened, so an alliance had been made with Zengi's son Nur ad-Din, the emir of Aleppo. Perhaps remembering attacks launched on Jerusalem from Damascus in previous decades, Damascus seemed to be the best target for the crusade, rather than Aleppo or another city to the north which would have allowed for the recapture of Edessa. The subsequent Siege of Damascus was a complete failure; when the city seemed to be on the verge of collapse, the crusader army suddenly moved against another section of the walls, and were driven back. The crusaders retreated within three days. There were rumours of treachery and bribery, and Conrad III felt betrayed by the nobility of Jerusalem. Whatever the reason for the failure, the French and German armies returned home, and a few years later Damascus was firmly under Nur ad-Din's control.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_8">
+			<Text>The failure of the Second Crusade had dire long-term consequences for the kingdom. The West was hesitant to send large-scale expeditions; for the next few decades, only small armies came, headed by minor European nobles who desired to make a pilgrimage. The Muslim states of Syria were meanwhile gradually united by Nur ad-Din, who defeated the Principality of Antioch at the Battle of Inab in 1149 and gained control of Damascus in 1154. Nur ad-Din was extremely pious and during his rule the concept of jihad came to be interpreted as a kind of counter-crusade against the kingdom, which was an impediment to Muslim unity, both political and spiritual.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_9">
+			<Text>Baldwin IV reached his majority in 1176, but as a leper could have no children and could not be expected to rule much longer, so the focus of his succession passed to his sister Sibylla and his younger half-sister Isabella. Baldwin and his advisors recognised that it was essential for Sibylla to be married to a Western nobleman in order to access support from European states in a military crisis; while Raymond was still regent, a marriage was arranged for Sibylla and William of Montferrat, a cousin of Louis VII of France and of Frederick Barbarossa, Holy Roman Emperor. This match produced Baldwin V.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_10">
+			<Text>Baldwin proved to be an effective and energetic king as well as being a brilliant military commander: he defeated Saladin at the Battle of Montgisard in September 1177 despite being greatly outnumbered and having to rely on a levee-en-masse. Saladin attacked the kingdom in 1182 when hostilities broke out again, but was defeated at Belvoir Castle. King Baldwin, although quite ill, was still able to command the army in person. Saladin attempted to besiege Beirut from land and sea, and Baldwin raided Damascene territory, but neither side did significant damage, and a truce was signed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_11">
+			<Text>Baldwin V's rule, with Raymond of Tripoli as regent and his great-uncle Joscelin of Edessa as his guardian, was short. He was a sickly child and died in the summer of 1186. Loyalties in the kingdom became split between Raymond of Tripoli and Guy of Lusignan. Saladin took this opportunity to attack again in 1187 when the truce ended, and despite a last-minute reconciliation in the face of Saladin's invasion, the army of the kingdom was utterly destroyed at the Battle of Hattin on July 4, 1187.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_12">
+			<Text>Over the next few months Saladin easily overran the entire kingdom. Only the port of Tyre remained in Frankish hands, defended by Conrad of Montferrat, the paternal uncle of Baldwin V, who had coincidentally arrived just in time from Constantinople. The fall of Jerusalem essentially ended the first Kingdom of Jerusalem. Much of the population, swollen with refugees fleeing Saladin's conquest of the surrounding territory, was allowed to flee to Tyre, Tripoli, or Egypt (whence they were sent back to Europe), but those who could not pay for their freedom were sold into slavery, and those who could were often robbed by Christians and Muslims alike on their way into exile. The capture of the city led to the Third Crusade, launched in 1189 and led by Richard the Lionheart, Philip Augustus and Frederick Barbarossa, though the last drowned en route.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_13">
+			<Text>For the next hundred years, the Kingdom of Jerusalem clung to life as a tiny kingdom hugging the Syrian coastline. Its capital was moved to Acre and controlled most of the coastline of present-day Israel and southern and central Lebanon, including the strongholds and towns of Jaffa, Arsuf, Caesarea, Tyre, Sidon, and Beirut. At best, it included only a few other significant cities, such as Ascalon and some interior fortresses, as well as suzerainty over Tripoli and Antioch. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_14">
+			<Text>Meanwhile, schemes were hatched to reconquer Jerusalem through Egypt. A Fourth Crusade was planned after the failure of the Third, but it resulted in the sack of Constantinople in 1204, and most of the crusaders involved never arrived in the kingdom. The Fourth Lateran Council in 1215 called for a new, better-organized crusade against Egypt, and in he spring of 1218 the Fifth Crusade began in earnest when German crusader fleets landed at Acre. Along with King John, who was elected leader of the crusade, the fleets sailed to Egypt and besieged Damietta at the mouth of the Nile. In July 1221, the crusaders set off towards Cairo, but they were stopped by the rising Nile, which al-Kamil allowed to flood by breaking the dams along its course. The sultan easily defeated the trapped crusader army and regained Damietta, marking the end of the Fifth Crusade.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_15">
+			<Text>In 1229, however, after receiving help from an army sent by Frederick II of the Holy Roman Empire, the kingdom was essentially restored, including regaining the city of Jerusalem. The Ayyubids were divided between Ayyub in Egypt, Isma'il in Damascus, and Dawud in Kerak. Isma'il, Dawud, and al-Mansur Ibrahim of Homs went to war with Ayyub, who hired the Khwarazmians to fight for him. The Khwarazmians were nomadic Turks from central Asia, who had recently been displaced by the Mongols further to the east and were now residing in Mesopotamia. With Ayyub's support they sacked Jerusalem in the summer of 1244, leaving it in ruins and useless to both Christians and Muslims. In October, the Khwarazmians, along with the Egyptian army under the command of Baibars, were met by the Frankish army, led by Philip of Montfort, Walter of Brienne, and the masters of the Templars, Hospitallers, and Teutonic Knights, along with al-Mansur and Dawud. On October 17 the Egyptian-Khwarazmian army destroyed the Frankish-Syrian coalition, and Walter of Brienne was taken captive and later executed. By 1247, Ayyub had reoccupied most of the territory that had been conceded in 1239, and had also gained control of Damascus.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_16">
+			<Text>The kingdom would not recover again, and the Mamluks under Baibars were taking advantage of the kingdom's constant disputes, and began conquering the remaining crusader cities along the coast. Acre fell on May 18, 1291. Tyre fell the next day, Sidon a month later, and Beirut in July. The crusaders moved their headquarters north to cities such as Tortosa, but lost that too, and were forced to relocate their headquarters offshore to Cyprus. Some naval raids and attempts to retake territory were made over the next ten years, but with the loss of the island of Arwad in 1302/1303, the Kingdom of Jerusalem ceased to exist on the mainland. The kings of Cyprus for many decades hatched plans to regain the Holy Land, but without success. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CIVILIZATION_TCS_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_17">
+			<Text>For the next seven centuries, up to today, a veritable multitude of European monarchs have used the title of King of Jerusalem.</Text>
+		</Row>
+	</EnglishText>
+</Database>
+				

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Types>
+		<!-- Major Civs -->
+		<Row Type="TRAIT_TCS_OUTREMER" Kind="KIND_TRAIT"/>
+		<Row Type="CIVILIZATION_TCS_OUTREMER" Kind="KIND_CIVILIZATION"/>
+	</Types>
+	<LegacyCivilizations>
+		<!-- Full Civs -->
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" Name="LOC_CIVILIZATION_TCS_OUTREMER_NAME" FullName="LOC_CIVILIZATION_TCS_OUTREMER_FULLNAME" Adjective="LOC_CIVILIZATION_TCS_OUTREMER_ADJECTIVE" Age="AGE_EXPLORATION"/>
+	</LegacyCivilizations>
+	<LegacyCivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" TraitType="TRAIT_TCS_OUTREMER"/>
+	</LegacyCivilizationTraits>
+	<Traits>
+		<Row TraitType="TRAIT_TCS_OUTREMER" InternalOnly="true"/>
+	</Traits>
+</Database>

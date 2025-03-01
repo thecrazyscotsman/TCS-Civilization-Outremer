@@ -1,0 +1,764 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <EnglishText>
+        <Row Tag="LOC_1109C_NAME">
+            <Text>As the Shawnees gather, blue clouds of tobacco smoke rise, mingling with laughter and conversation.</Text>
+        </Row>
+        <Row Tag="LOC_1109C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1203A_STORYTITLE">
+            <Text>Black Sun</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1203A_COMPLETION">
+            <Text>The Prophet summons people from near and far to witness proof of the power invested in him by the Master of Life. Standing tall before the waiting crowds, Tecumseh reiterates the message witnessed in his brother's visions: change is coming, but through unity, all challenges will be overcome. Suddenly, as the Prophet foretold, the sky darkens and the sun disappears.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1203B_STORYTITLE">
+            <Text>Black Sun</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1203B_NAME">
+            <Text>New believers mean new soldiers.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1203B_DESCRIPTION">
+            <Text>Story continues.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1203C_STORYTITLE">
+            <Text>Black Sun</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1203C_NAME">
+            <Text>Word of this miracle must spread.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1203C_DESCRIPTION">
+            <Text>Story continues.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1204A_STORYTITLE">
+            <Text>The Eve of Battle</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1204A_COMPLETION">
+            <Text>As enemy forces draw near, citizens prepare to flee. The Prophet's messengers convince the foes to settle nearby in preparation for peace talks. In this brief respite, Tecumseh weighs the promise of war with the advantages of peace.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1204B_STORYTITLE">
+            <Text>The Eve of Battle</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1204B_NAME">
+            <Text>Ready the warriors.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1204B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1204B_COMPLETION">
+            <Text>Soldiers fall beneath the fury of Tecumseh's warriors. Now peace will reign, by Tecumseh's hand.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1204B_IMPERATIVE">
+            <Text>Defeat an enemy Commander.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1204C_STORYTITLE">
+            <Text>The Eve of Battle</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1204C_NAME">
+            <Text>Bloodshed is not always the answer.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1204C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1205A_STORYTITLE">
+            <Text>Internal Divisions</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1205A_COMPLETION">
+            <Text>Rumors abound of witches and sorcerers threatening the very fabric of Tecumseh's society. The Prophet warns of their growing power, but there are other ways of dealing with dissenting voices.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1205B_STORYTITLE">
+            <Text>Internal Divisions</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1205B_NAME">
+            <Text>Close.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1205B_DESCRIPTION">
+            <Text>{1_reward} in all Settlements.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1205B_COMPLETION">
+            <Text>The fear of witches wanes as the peoples' trust in Tecumseh grows. Now that their concerns are quelled, life becomes joyous once more.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1205B_IMPERATIVE">
+            <Text>Start 3 Diplomatic Sanctions.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1206A_STORYTITLE">
+            <Text>Touring New Lands</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1206A_COMPLETION">
+            <Text>Tecumseh addresses new neighbors with both fire and compassion. Their lands, he declares, are their own, and their customs as well. But to maintain both, there must be unity – and in unity, strength. The ears of young warriors perk up at his offer of glory, while their elders wonder whether this is truly the path to preservation.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1206B_STORYTITLE">
+            <Text>Touring New Lands</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1206B_NAME">
+            <Text>The allegiance of the young promises a bright future.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1206B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1206B_COMPLETION">
+            <Text>Neighboring warriors gather in Tecumseh's settlements, ready to take on the world. As they raise their voices together, their songs combine into a single melody of unity.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1206B_IMPERATIVE">
+            <Text>Become Suzerain of an Independent Power.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1206C_STORYTITLE">
+            <Text>Touring New Lands</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1206C_NAME">
+            <Text>The elders' doubts must be respected.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1206C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1207A_STORYTITLE">
+            <Text>The Ground Quivers</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1207A_COMPLETION">
+            <Text>As the earth wages war on humanity, many fear that these disasters are signs of the Master of Life's rage. Those who once doubted the Prophet's teachings now become believers. Tecumseh welcomes these new adherents, then sends them out once more to share their discovery with the world.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1207B_STORYTITLE">
+            <Text>The Ground Quivers</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1207B_NAME">
+            <Text>Close.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1207B_DESCRIPTION">
+            <Text>{1_reward} in all Settlements.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1207B_COMPLETION">
+            <Text>Many prayers are more powerful than one. The Prophet guides believers across the world to appease the angry earth, and the earth listens.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1207B_IMPERATIVE">
+            <Text>Have 4 Settlements following your Founded Religion.</Text>
+        </Row>
+        <Row Tag="LOC_3713A_STORYTITLE">
+            <Text>Changing Seasons</Text>
+        </Row>
+        <Row Tag="LOC_3713A_COMPLETION">
+            <Text>As farmers return from their fields, the Shawnees gather for the Bread Dance. Women lay cakes of corn next to meat from the hunters. Food grown and food gathered – life nurtured and life taken. The people dance, sing, and give thanks for the earth's bounty that keeps them fed and provides for their futures.</Text>
+        </Row>
+        <Row Tag="LOC_3713B_NAME">
+            <Text>The fields overflow with fertility.</Text>
+        </Row>
+        <Row Tag="LOC_3713B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3713C_NAME">
+            <Text>The forests are rich with game.</Text>
+        </Row>
+        <Row Tag="LOC_3713C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3713D_NAME">
+            <Text>All people rejoice in celebration.</Text>
+        </Row>
+        <Row Tag="LOC_3713D_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3714A_STORYTITLE">
+            <Text>Absent Siblings</Text>
+        </Row>
+        <Row Tag="LOC_3714A_COMPLETION">
+            <Text>Animals have become rare in the wilderness, and Shawnee hunters wonder what has become of them. An eavesdropping old woman points to the forest. The trees are too dense, she tells them. If they want the animals to return, they must make the woods friendly.</Text>
+        </Row>
+        <Row Tag="LOC_3714B_NAME">
+            <Text>The forest will be set alight.</Text>
+        </Row>
+        <Row Tag="LOC_3714B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3714C_NAME">
+            <Text>Cutting some trees should do the job.</Text>
+        </Row>
+        <Row Tag="LOC_3714C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3715A_STORYTITLE">
+            <Text>At the Council Fire</Text>
+        </Row>
+        <Row Tag="LOC_3715A_COMPLETION">
+            <Text>Shawnee citizens gather at the mawaskawe skote to discuss the rising population in the capital. Several chiefs worry that cultural diversity is on the decline as people's lives become more intertwined in dense neighborhoods.</Text>
+        </Row>
+        <Row Tag="LOC_3715B_NAME">
+            <Text>Differences should be preserved.</Text>
+        </Row>
+        <Row Tag="LOC_3715B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3715C_NAME">
+            <Text>Evolution should be left to its own devices.</Text>
+        </Row>
+        <Row Tag="LOC_3715C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3716A_STORYTITLE">
+            <Text>Ancient Wisdom</Text>
+        </Row>
+        <Row Tag="LOC_3716A_COMPLETION">
+            <Text>The hoceepkileni readies his gear and his medicine bag. Many await his words and counsel. So do those who have not yet opened their eyes to the world's true nature.</Text>
+        </Row>
+        <Row Tag="LOC_3716B_NAME">
+            <Text>The Shawnees will benefit from his wisdom.</Text>
+        </Row>
+        <Row Tag="LOC_3716B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3716C_NAME">
+            <Text>He must travel abroad.</Text>
+        </Row>
+        <Row Tag="LOC_3716C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3717A_STORYTITLE">
+            <Text>Life for Life</Text>
+        </Row>
+        <Row Tag="LOC_3717A_COMPLETION">
+            <Text>Mourners sing to the body of the kispoko nena’to, remembering his brave stand and wondering when his death will be avenged. Suddenly a cry goes up: an enemy has fallen.</Text>
+        </Row>
+        <Row Tag="LOC_3717B_NAME">
+            <Text>The warriors' whoops fill the air.</Text>
+        </Row>
+        <Row Tag="LOC_3717B_DESCRIPTION">
+            <Text>{1_reward} on Kispoko Nena’to.</Text>
+        </Row>
+        <Row Tag="LOC_3717C_NAME">
+            <Text>This absence must be filled.</Text>
+        </Row>
+        <Row Tag="LOC_3717C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3718A_STORYTITLE">
+            <Text>Coming Conflict</Text>
+        </Row>
+        <Row Tag="LOC_3718A_COMPLETION">
+            <Text>The drum beats as Shawnee warriors prepare for war. Gathering food and weapons, they begin their fast to purify themselves for the struggle on the horizon. A great clamor rises. The warriors whoop and fire their guns, dancing and singing to their future success. Then – silence, as they melt into the landscape in pursuit of foes.</Text>
+        </Row>
+        <Row Tag="LOC_3718B_NAME">
+            <Text>Close.</Text>
+        </Row>
+        <Row Tag="LOC_3718B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3719A_STORYTITLE">
+            <Text>Weavers of Metal</Text>
+        </Row>
+        <Row Tag="LOC_3719A_COMPLETION">
+            <Text>Shawnee silversmiths are inundated with requests for new pieces. Rings and bracelets, earrings and plates… Everyone desires the beautiful metal, and soon each settlement shines brighter than the moon.</Text>
+        </Row>
+        <Row Tag="LOC_3719B_NAME">
+            <Text>One can never have too much silver.</Text>
+        </Row>
+        <Row Tag="LOC_3719B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3719C_NAME">
+            <Text>It is time to export these masterpieces.</Text>
+        </Row>
+        <Row Tag="LOC_3719C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3720A_STORYTITLE">
+            <Text>Talkative Merchants</Text>
+        </Row>
+        <Row Tag="LOC_3720A_COMPLETION">
+            <Text>Cities around the world clamor for Shawnee goods. Traders race from one market to the next, courting buyers and sharing stories of their home.</Text>
+        </Row>
+        <Row Tag="LOC_3720B_NAME">
+            <Text>They turn words into riches.</Text>
+        </Row>
+        <Row Tag="LOC_3720B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3720C_NAME">
+            <Text>New friendships open doors.</Text>
+        </Row>
+        <Row Tag="LOC_3720C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3721A_STORYTITLE">
+            <Text>Bounty from the Woodlands</Text>
+        </Row>
+        <Row Tag="LOC_3721A_COMPLETION">
+            <Text>Shawnee warriors celebrate a successful hunt. Yet older men wonder if their young peers have properly given thanks for the sacrifices made for them by the animals.</Text>
+        </Row>
+        <Row Tag="LOC_3721B_NAME">
+            <Text>Tradition must be preserved lest it be forgotten.</Text>
+        </Row>
+        <Row Tag="LOC_3721B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3721C_NAME">
+            <Text>Grateful animals multiply and keep the forests full.</Text>
+        </Row>
+        <Row Tag="LOC_3721C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3722A_STORYTITLE">
+            <Text>Pelewa</Text>
+        </Row>
+        <Row Tag="LOC_3722A_COMPLETION">
+            <Text>Crowds from near and far flock to the menagerie of the Shawnee. The animals are exquisite, and all marvel at these strange beasts. Yet amid the extraordinary struts a single reminder of the ordinary – a turkey, long revered by the people and necessary to their way of life.</Text>
+        </Row>
+        <Row Tag="LOC_3722B_NAME">
+            <Text>All animals are equal in value.</Text>
+        </Row>
+        <Row Tag="LOC_3722B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3722C_NAME">
+            <Text>Turkeys have their own charm.</Text>
+        </Row>
+        <Row Tag="LOC_3722C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3726A_STORYTITLE">
+            <Text>The Enemy Encroaches</Text>
+        </Row>
+        <Row Tag="LOC_3726A_COMPLETION">
+            <Text>The enemy advances and the land of Tecumseh's people shrinks. Furious at the loss of his settlement, he rallies the territories beyond his borders, appealing to those who settle for inaction – and who, should he fall, will be next in line.</Text>
+        </Row>
+        <Row Tag="LOC_3726B_NAME">
+            <Text>The future holds only victory for those who continue to fight.</Text>
+        </Row>
+        <Row Tag="LOC_3726B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3726C_NAME">
+            <Text>Differences must be set aside for the greater good.</Text>
+        </Row>
+        <Row Tag="LOC_3726C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3727A_STORYTITLE">
+            <Text>An Invitation to War</Text>
+        </Row>
+        <Row Tag="LOC_3727A_COMPLETION">
+            <Text>City states watch as great powers face off on the battlefield, unsure whether they should remain on the sidelines or risk everything by getting involved. But Tecumseh, ever vigilant, will make that choice for them.</Text>
+        </Row>
+        <Row Tag="LOC_3727B_NAME">
+            <Text>Send a black wampum belt.</Text>
+        </Row>
+        <Row Tag="LOC_3727B_DESCRIPTION">
+            <Text>Bolster Military actions require less Influence.</Text>
+        </Row>
+        <Row Tag="LOC_3727C_NAME">
+            <Text>Send a white wampum belt.</Text>
+        </Row>
+        <Row Tag="LOC_3727C_DESCRIPTION">
+            <Text>Promote Growth actions require less Influence.</Text>
+        </Row>
+        <Row Tag="LOC_3728A_STORYTITLE">
+            <Text>Noncombatants</Text>
+        </Row>
+        <Row Tag="LOC_3728A_COMPLETION">
+            <Text>Civilians cower as warriors loot their homes. But when they move to take the innocents captive, Tecumseh raises a hand.</Text>
+        </Row>
+        <Row Tag="LOC_3728B_NAME">
+            <Text>Enough blood has been shed.</Text>
+        </Row>
+        <Row Tag="LOC_3728B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3728C_NAME">
+            <Text>Take only valuables.</Text>
+        </Row>
+        <Row Tag="LOC_3728C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3729A_STORYTITLE">
+            <Text>The War Chief</Text>
+        </Row>
+        <Row Tag="LOC_3729A_COMPLETION">
+            <Text>The warriors cry victory as enemies fall before their fury. Once again, Tecumseh's strategy has succeeded. Emboldened by their leader, the Shawnees melt into the landscape and prepare for their next attack.</Text>
+        </Row>
+        <Row Tag="LOC_3729B_NAME">
+            <Text>A quick strike will quash the foe.</Text>
+        </Row>
+        <Row Tag="LOC_3729B_DESCRIPTION">
+            <Text>{1_reward} on Kispoko Nena’to.</Text>
+        </Row>
+        <Row Tag="LOC_3729C_NAME">
+            <Text>A hard blow is difficult to block.</Text>
+        </Row>
+        <Row Tag="LOC_3729C_DESCRIPTION">
+            <Text>{1_reward} on Kispoko Nena’to.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200A_STORYTITLE">
+            <Text>The Door Opens</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200A_COMPLETION">
+            <Text>A new Prophet rises from a death-like slumber. Shedding his old life, he relates a vision of a forked road, one path leading to joy, the other misery. He repeats the warning sent through him by the Master of Life: some evils cannot be redeemed, but the future may yet be saved. Tecumseh listens closely to the Prophet's words. Then, extending a hand, he helps his brother to his feet.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200B_STORYTITLE">
+            <Text>The Door Opens</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200B_NAME">
+            <Text>Evil shares one fate: defeat.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200B_COMPLETION">
+            <Text>As enemies flee into the surrounding wilderness, Tecumseh's warriors celebrate their victory. Voices rise and fall around the campfires, sharing battlefield tales and imagining a new tomorrow.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200B_IMPERATIVE">
+            <Text>Defeat 3 Units.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200C_STORYTITLE">
+            <Text>The Door Opens</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200C_NAME">
+            <Text>Only through unity can enemies be overcome.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200C_COMPLETION">
+            <Text>Strangers wander the streets, peering at unfamiliar sights and marvelous goods. But not for long – Tecumseh's people know how to welcome new faces and make them old friends.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200C_IMPERATIVE">
+            <Text>Become Suzerain of an Independent Power.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200D_STORYTITLE">
+            <Text>The Door Opens</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200D_NAME">
+            <Text>The people may interpret this vision as they will.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1200D_DESCRIPTION">
+            <Text>{1_reward} in all Settlements.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1201A_STORYTITLE">
+            <Text>Scattered Embers</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1201A_COMPLETION">
+            <Text>Two lines of warriors face one another, lit by the sacred fire blazing in the night. Together they cheer for coming battle. But Tecumseh's gaze is suddenly drawn away from his army, towards the fire. Silence falls as a serpent emerges from the flames. As it rushes away into the darkness, the shouts pick up once more, louder than ever.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1201B_STORYTITLE">
+            <Text>Scattered Embers</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1201B_NAME">
+            <Text>The Vision reveals the path to victory.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1201B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1201B_COMPLETION">
+            <Text>Craftspeople carve images of serpents, and children draw those long bodies in the soil. All know the snake's appearance from the fire was a sign of victory.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1201B_IMPERATIVE">
+            <Text>Capture a Settlement.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1201C_STORYTITLE">
+            <Text>Scattered Embers</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1201C_NAME">
+            <Text>How does a creature survive such heat?</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1201C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1202A_STORYTITLE">
+            <Text>The Ceremonial Pipe</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1202A_COMPLETION">
+            <Text>Gentle wisps rise from the tomahawk pipe as Tecumseh draws its smoke into his lungs. The smoldering kinnikinnick promises new beginnings through friendship and union. But who should benefit?</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1202B_STORYTITLE">
+            <Text>The Ceremonial Pipe</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1202B_NAME">
+            <Text>The pipe itself is a gift worthy of alliance.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1202B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1202B_COMPLETION">
+            <Text>Tecumseh's tomahawk pipe passes from one friendly hand to another. New friendships have been made here, strong alliances to weather future storms.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1202B_IMPERATIVE">
+            <Text>Have an Alliance with another Civilization.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1202C_STORYTITLE">
+            <Text>The Ceremonial Pipe</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1202C_NAME">
+            <Text>Additional negotiation tactics are needed.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1202C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3723A_STORYTITLE">
+            <Text>The Panther's Way</Text>
+        </Row>
+        <Row Tag="LOC_3723A_COMPLETION">
+            <Text>Stargazers point to the heavens as a comet streaks across the sky. Turning to Tecumseh, they see the celestial panther reflected in his eyes, pouncing through the stars. With a swell of pride, he watches his namesake disappear with a trail of fire.</Text>
+        </Row>
+        <Row Tag="LOC_3723B_NAME">
+            <Text>Fortune awaits the people.</Text>
+        </Row>
+        <Row Tag="LOC_3723B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3723C_NAME">
+            <Text>The next hunt will be fruitful.</Text>
+        </Row>
+        <Row Tag="LOC_3723C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3724A_STORYTITLE">
+            <Text>Negotiation Tactics</Text>
+        </Row>
+        <Row Tag="LOC_3724A_COMPLETION">
+            <Text>After much debate, local chiefs refuse to join Tecumseh's confederacy. Weary of arguing, they proffer a peace pipe to smooth over any ill will. Tecumseh, displeased with the lack of progress, holds the pipe carefully between his fingers. Then, in a single motion, he snaps it in half and tosses the fragments into the fire. "Again?" one chief sighs as his warriors urge him to reconsider. "Very well..."</Text>
+        </Row>
+        <Row Tag="LOC_3724B_NAME">
+            <Text>Close.</Text>
+        </Row>
+        <Row Tag="LOC_3724B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3725A_STORYTITLE">
+            <Text>Internal Dissent</Text>
+        </Row>
+        <Row Tag="LOC_3725A_COMPLETION">
+            <Text>Chiefs have become wary of Tecumseh's attempts at unification. Two city states are enough, they say leave the people to their own fates, and their own decisions!</Text>
+        </Row>
+        <Row Tag="LOC_3725B_NAME">
+            <Text>True power comes through solidarity.</Text>
+        </Row>
+        <Row Tag="LOC_3725B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3725C_NAME">
+            <Text>There has been enough expansion.</Text>
+        </Row>
+        <Row Tag="LOC_3725C_DESCRIPTION">
+            <Text>{1_reward}, but lower all Independent Power relationships by 2.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1208A_STORYTITLE">
+            <Text>Together as One</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1208A_COMPLETION">
+            <Text>Tecumseh's armies march the land, removing foes and making safe the lives of citizens. Though war continues, the union of his people lends Tecumseh strength, just as his leadership bolsters their bonds with each other.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1208B_STORYTITLE">
+            <Text>Together as One</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1208B_NAME">
+            <Text>Close.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1208B_DESCRIPTION">
+            <Text>{1_child_reward}</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1208B_COMPLETION">
+            <Text>The enemy's capital falls before the united army. In every street, they shout their victory, a single word emerging from so many mouths: Tecumseh!</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1208B_IMPERATIVE">
+            <Text>Capture an enemy Capital.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1208C_STORYTITLE">
+            <Text>Together as One</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1208C_NAME">
+            <Text>Close.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1208C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1208D_STORYTITLE">
+            <Text>Together as One</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1208D_NAME">
+            <Text>Close.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1208D_DESCRIPTION">
+            <Text>{1_reward} and enter a Celebration.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1209A_STORYTITLE">
+            <Text>A People United</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1209A_COMPLETION">
+            <Text>Many join Tecumseh's cause every day, flooding through his gates and sending missives from afar. But more seek his guidance as the world's turmoil grows.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1209B_STORYTITLE">
+            <Text>A People United</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1209B_NAME">
+            <Text>Close.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1209B_DESCRIPTION">
+            <Text>{1_child_reward}</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1209B_COMPLETION">
+            <Text>Tecumseh watches his people thrive – many nations in one, each a piece of the Prophet's vision realized. New horizons await, but the Master of Life's guiding hand will light the way.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1209B_IMPERATIVE">
+            <Text>Have 4 Trade Routes.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1209C_STORYTITLE">
+            <Text>A People United</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1209C_NAME">
+            <Text>Close.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1209C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1209D_STORYTITLE">
+            <Text>A People United</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1209D_NAME">
+            <Text>Close.</Text>
+        </Row>
+        <Row Tag="LOC_LEADER_CHAIN_1209D_DESCRIPTION">
+            <Text>{1_reward} and enter a Celebration.</Text>
+        </Row>
+        <Row Tag="LOC_3730A_STORYTITLE">
+            <Text>An Honorable Gift</Text>
+        </Row>
+        <Row Tag="LOC_3730A_COMPLETION">
+            <Text>As the two chiefs confirm their mutual allegiance, Tecumseh receives a symbol of honor and friendship – a sash directly from the uniform of his new ally. The item is valuable, but the gesture beyond price.</Text>
+        </Row>
+        <Row Tag="LOC_3730B_NAME">
+            <Text>Display the sash for all to see.</Text>
+        </Row>
+        <Row Tag="LOC_3730B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3730C_NAME">
+            <Text>Regift the sash to another ally.</Text>
+        </Row>
+        <Row Tag="LOC_3730C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3731A_STORYTITLE">
+            <Text>The Spaces Between</Text>
+        </Row>
+        <Row Tag="LOC_3731A_COMPLETION">
+            <Text>The land grows crowded with buildings, and the natural world shrinks in the face of the metropolis. So much has been claimed. But to Tecumseh, the land remains for all.</Text>
+        </Row>
+        <Row Tag="LOC_3731B_NAME">
+            <Text>Nature still has many gifts to offer.</Text>
+        </Row>
+        <Row Tag="LOC_3731B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3731C_NAME">
+            <Text>The earth must be experienced in peace.</Text>
+        </Row>
+        <Row Tag="LOC_3731C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3732A_STORYTITLE">
+            <Text>Echoes of History</Text>
+        </Row>
+        <Row Tag="LOC_3732A_COMPLETION">
+            <Text>Tecumseh regards the artifacts before him. They sit inert, but in that silence he hears the voices of the past, the memories these objects have seen, the stories they could tell. They are the voices of humanity.</Text>
+        </Row>
+        <Row Tag="LOC_3732B_NAME">
+            <Text>These objects belong together.</Text>
+        </Row>
+        <Row Tag="LOC_3732B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_3732C_NAME">
+            <Text>More artifacts mean more voices.</Text>
+        </Row>
+        <Row Tag="LOC_3732C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_1497A_STORYTITLE">
+            <Text>The New Shawnee</Text>
+        </Row>
+        <Row Tag="LOC_1497A_COMPLETION">
+            <Text>In the high era of Shawnee rule, it was the elders of the Cilakofe division who made the political decisions for the people. But under a {1_civilization_adj} government, their role is unclear. Some {2_civilizations_adj} Shawnee feel they no longer need to obey the old ways, others see the value in tradition.</Text>
+        </Row>
+        <Row Tag="LOC_1497B_NAME">
+            <Text>Preserve the elders’ authority.</Text>
+        </Row>
+        <Row Tag="LOC_1497B_DESCRIPTION">
+            <Text>{1_reward} in Cities for each Slotted Shawnee Tradition.</Text>
+        </Row>
+        <Row Tag="LOC_1497C_NAME">
+            <Text>The new Shawnee take up new forms of governance.</Text>
+        </Row>
+        <Row Tag="LOC_1497C_DESCRIPTION">
+            <Text>{1_reward} on Gold Buildings.</Text>
+        </Row>
+        <Row Tag="LOC_1498A_STORYTITLE">
+            <Text>Rights of the Forest</Text>
+        </Row>
+        <Row Tag="LOC_1498A_COMPLETION">
+            <Text>The Cilakofe Elders, now a political party operating within the {1_civilization_adj} government, raise a concern over hunting grounds - long important to Shawnee. New urban encroachments threaten to deplete wildlife range.</Text>
+        </Row>
+        <Row Tag="LOC_1498B_NAME">
+            <Text>The elders shall manage forestry.</Text>
+        </Row>
+        <Row Tag="LOC_1498B_DESCRIPTION">
+            <Text>{1_reward} in Cities but {2_reward} in Cities.</Text>
+        </Row>
+        <Row Tag="LOC_1498C_NAME">
+            <Text>Disregard the request.</Text>
+        </Row>
+        <Row Tag="LOC_1498C_DESCRIPTION">
+            <Text>Story ends.</Text>
+        </Row>
+        <Row Tag="LOC_1499A_STORYTITLE">
+            <Text>The Shawnee Renaissance</Text>
+        </Row>
+        <Row Tag="LOC_1499A_COMPLETION">
+            <Text>{1_civilization_adj} Shawnee youth have rediscovered the teachings of Tenskwatawa. Long removed from the traditional authority of their elders, young Shawnee find themselves interpreting them on their own, rethought and revised for the modern age.</Text>
+        </Row>
+        <Row Tag="LOC_1499B_NAME">
+            <Text>The youth return to the stomp grounds.</Text>
+        </Row>
+        <Row Tag="LOC_1499B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_1499C_NAME">
+            <Text>Shawnee songs are heard on the radio.</Text>
+        </Row>
+        <Row Tag="LOC_1499C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_1500A_STORYTITLE">
+            <Text>The March of Industry</Text>
+        </Row>
+        <Row Tag="LOC_1500A_COMPLETION">
+            <Text>A Shawnee city planner unveils plans for new industrial zones, but Chillicothe elders are concerned that they will damage a centuries-old Mawaskawe Skote site.</Text>
+        </Row>
+        <Row Tag="LOC_1500B_NAME">
+            <Text>Take the counsel of the elders.</Text>
+        </Row>
+        <Row Tag="LOC_1500B_DESCRIPTION">
+            <Text>{1_reward} but {2_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_1500C_NAME">
+            <Text>Deny the counsel of the elders.</Text>
+        </Row>
+        <Row Tag="LOC_1500C_DESCRIPTION">
+            <Text>{1_reward} but {2_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_1501A_STORYTITLE">
+            <Text>National Myths</Text>
+        </Row>
+        <Row Tag="LOC_1501A_COMPLETION">
+            <Text>A new era requires new stories, and historians have begun with a vast treatise of the {1_civilization_adj} people. Shawnee Hoceepkileni wonder to what extent their stories will feature in the volume.</Text>
+        </Row>
+        <Row Tag="LOC_1501B_NAME">
+            <Text>Hoceepkileni keep their stories in their community.</Text>
+        </Row>
+        <Row Tag="LOC_1501B_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+        <Row Tag="LOC_1501C_NAME">
+            <Text>Hoceepkileni open their archives and contribute.</Text>
+        </Row>
+        <Row Tag="LOC_1501C_DESCRIPTION">
+            <Text>{1_reward}.</Text>
+        </Row>
+    </EnglishText>
+</Database>

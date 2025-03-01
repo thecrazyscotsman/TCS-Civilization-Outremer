@@ -1,0 +1,12 @@
+<Database>
+	<Kinds>
+		<Row Kind="KIND_CIVILIZATION"/>
+		<InsertOrIgnore KIND="KIND_TRAIT"/>
+	</Kinds>
+	<Types>
+		<Row Type="TRAIT_TCS_OUTREMER" Kind="KIND_TRAIT"/>
+	</Types>
+	<Traits>
+		<Row TraitType="TRAIT_TCS_OUTREMER" InternalOnly="true"/>
+	</Traits>
+</Database>

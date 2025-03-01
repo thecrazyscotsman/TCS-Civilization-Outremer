@@ -1,0 +1,96 @@
+<Database>
+	<Types>
+		<!-- Major Civs -->
+		<Row Type="TRAIT_TCS_OUTREMER_ABILITY" Kind="KIND_TRAIT"/>
+	</Types>
+	<Kinds>
+		<InsertOrIgnore KIND="KIND_TRAIT"/>
+	</Kinds>
+	<Civilizations>
+		<!-- Full Civs -->
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" Name="LOC_CIVILIZATION_TCS_OUTREMER_NAME" FullName="LOC_CIVILIZATION_TCS_OUTREMER_FULLNAME" Description="LOC_CIVILIZATION_TCS_OUTREMER_DESCRIPTION" Adjective="LOC_CIVILIZATION_TCS_OUTREMER_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" UniqueCultureProgressionTree="TREE_CIVICS_EX_TCS_OUTREMER" CapitalName="LOC_CITY_NAME_TCS_OUTREMER1" RandomCityNameDepth="30"/>
+	</Civilizations>
+	<CivilizationFavoredWonders>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" FavoredWonderType="WONDER_NOTRE_DAME" FavoredWonderName="LOC_WONDER_NOTRE_DAME_NAME"/>
+	</CivilizationFavoredWonders>
+	<Traits>
+		<!--Civ Traits-->
+		<Row TraitType="TRAIT_TCS_OUTREMER_ABILITY" Name="LOC_TRAIT_TCS_OUTREMER_ABILITY_NAME" Description="LOC_TRAIT_TCS_OUTREMER_ABILITY_DESCRIPTION" InternalOnly="true"/>
+	</Traits>
+	<TraitModifiers>
+		<Row TraitType="TRAIT_TCS_OUTREMER_ABILITY" ModifierId="MOD_REVEAL_CIV_CULTURE_TREE_TCS_OUTREMER"/>
+		<Row TraitType="TRAIT_TCS_OUTREMER_ABILITY" ModifierId="MOD_CIV_WONDER_PRODUCTION_TCS_OUTREMER"/>
+		<Row TraitType="TRAIT_TCS_OUTREMER_ABILITY" ModifierId="MOD_UNITS_ON_GOLDEN_AGE_TCS_OUTREMER"/>
+		<Row TraitType="TRAIT_TCS_OUTREMER_ABILITY" ModifierId="MOD_GREAT_WORK_INFLUENCE_TCS_OUTREMER"/>
+		<Row TraitType="TRAIT_TCS_OUTREMER_ABILITY" ModifierId="TCS_PILGRIM_MOD_CONVERT_FOUNDED_TOWN"/>
+		<Row TraitType="TRAIT_TCS_OUTREMER_ABILITY" ModifierId="TCS_CRUSADER_MOD_MOD_COMBAT_ALLIANCE_STRENGTH_ADD_ABILITY_1"/>
+		<Row TraitType="TRAIT_TCS_OUTREMER_ABILITY" ModifierId="TCS_CRUSADER_MOD_MOD_COMBAT_ALLIANCE_STRENGTH_ADD_ABILITY_2"/>
+	</TraitModifiers>
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" TraitType="TRAIT_EXPLORATION_CIV"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" TraitType="TRAIT_TCS_OUTREMER"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" TraitType="TRAIT_TCS_OUTREMER_ABILITY"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" TraitType="TRAIT_ATTRIBUTE_MILITARISTIC"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" TraitType="TRAIT_ATTRIBUTE_POLITICAL"/>
+	</CivilizationTraits>
+	<RequirementSets>
+		<Row RequirementSetId="REQSET_PLAYER_IS_TCS_OUTREMER" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+	</RequirementSets>
+	<RequirementSetRequirements>
+		<Row RequirementSetId="REQSET_PLAYER_IS_TCS_OUTREMER" RequirementId="REQ_PLAYER_HAS_TRAIT_TCS_OUTREMER"/>
+	</RequirementSetRequirements>
+	<Requirements>
+		<Row RequirementId="REQ_PLAYER_HAS_TRAIT_TCS_OUTREMER" RequirementType="REQUIREMENT_PLAYER_HAS_CIVILIZATION_OR_LEADER_TRAIT"/>
+	</Requirements>
+	<RequirementArguments>
+		<Row RequirementId="REQ_PLAYER_HAS_TRAIT_TCS_OUTREMER" Name="TraitType" Value="TRAIT_TCS_OUTREMER"/>
+	</RequirementArguments>
+	<LeaderCivPriorities>
+		<!--This is the table used for AI, the UI uses LeaderCivilizationBias in config.xml-->
+		<Row Leader="LEADER_CHARLEMAGNE" Civilization="CIVILIZATION_TCS_OUTREMER" Priority="2"/>
+		<Row Leader="LEADER_ISABELLA" Civilization="CIVILIZATION_TCS_OUTREMER" Priority="2"/>
+	</LeaderCivPriorities>
+	<CityNames>
+		<!--TCS_OUTREMER-->
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER1"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER2"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER3"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER4"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER5"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER6"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER7"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER8"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER9"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER10"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER11"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER12"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER13"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER14"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER15"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER16"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER17"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER18"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER19"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER20"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER21"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER22"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER23"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER24"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER25"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER26"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER27"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER28"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER29"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CityName="LOC_CITY_NAME_TCS_OUTREMER30"/>
+	</CityNames>
+	<StartBiasAdjacentToCoasts>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" Score="200"/>
+	</StartBiasAdjacentToCoasts>
+	<VisArt_CivilizationBuildingCultures>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" BuildingCulture="BUILDING_CULTURE_MID"/>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" BuildingCulture="EXP_MUD"/>
+	</VisArt_CivilizationBuildingCultures>
+	<VisArt_CivilizationUnitCultures>
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" UnitCulture="Euro"/>
+	</VisArt_CivilizationUnitCultures>
+</Database>

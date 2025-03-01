@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+	<!-- ==================================================	-->
+	<!--	Unique Abilities							-->
+	<!-- ==================================================	-->
+	<!--Outremer-->
+
+	<Modifier id="TCS_CRUSADER_MOD_MOD_COMBAT_ALLIANCE_STRENGTH_ADD_ABILITY_1" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLAYER_DIPLOMACY_HAS_X_ALLIANCES">
+				<Argument name="Amount">1</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="AbilityType">ABILITY_TCS_CRUSADER_1</Argument>
+	</Modifier>
+	<Modifier id="TCS_CRUSADER_MOD_MOD_COMBAT_ALLIANCE_STRENGTH_ADD_ABILITY_2" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_UNIT_ADJUST_ABILITY">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_PLAYER_DIPLOMACY_HAS_X_ALLIANCES">
+				<Argument name="Amount">2</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="AbilityType">ABILITY_TCS_CRUSADER_2</Argument>
+	</Modifier>
+	<Modifier id="TCS_CRUSADER_MOD_COMBAT_ALLIANCE_COMBAT_STRENGTH_1" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">	
+		<Argument name="Amount">3</Argument>
+		<String context="Preview">LOC_ABILITY_TCS_CRUSADER_PREVIEW_1</String>
+	</Modifier>
+	<Modifier id="TCS_CRUSADER_MOD_COMBAT_ALLIANCE_COMBAT_STRENGTH_2" collection="COLLECTION_UNIT_COMBAT" effect="EFFECT_ADJUST_UNIT_STRENGTH_MODIFIER">
+		<Argument name="Amount">3</Argument>
+		<String context="Preview">LOC_ABILITY_TCS_CRUSADER_PREVIEW_2</String>
+	</Modifier>
+	
+	<!-- Pilgrim-->
+	<Modifier id="TCS_PILGRIM_MOD_CONVERT_FOUNDED_TOWN" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_MAKE_OWNER_RELIGION" permanent="true">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_FOUNDED_BY_UNIT_TYPE">
+				<Argument name="UnitType">UNIT_TCS_PILGRIM</Argument>
+			</Requirement>
+			<Requirement type="REQUIREMENT_CITY_IS_DISTANT_LANDS"/>
+		</SubjectRequirements>
+	</Modifier>
+</GameEffects>

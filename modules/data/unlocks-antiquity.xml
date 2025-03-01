@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Kinds>
+		<InsertOrIgnore Kind="KIND_UNLOCK"/>
+	</Kinds>
+	<Types>
+		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_TCS_OUTREMER" Kind="KIND_UNLOCK"/>
+	</Types>
+	<Unlocks>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER"/>
+	</Unlocks>
+	<UnlockRewards>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" Name="LOC_CIVILIZATION_TCS_OUTREMER_NAME" Description="LOC_UNLOCK_EXPLORATION_CIV_DESCRIPTION" Icon="CIVILIZATION_TCS_OUTREMER" CivUnlock="true"/>
+	</UnlockRewards>
+	<UnlockRequirements>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" RequirementSetId="REQSET_CIV_IS_ROME" Description="LOC_UNLOCK_PLAY_AS_ROME_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_ROME_TCS_OUTREMER_DESCRIPTION"/>
+		
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" RequirementSetId="REQSET_LEADER_IS_CHARLEMAGNE" Description="LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_TCS_OUTREMER_TOOLTIP"/>
+		
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" RequirementSetId="REQSET_LEADER_IS_LAFAYETTE" Description="LOC_UNLOCK_PLAY_AS_LAFAYETTE_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_LAFAYETTE_TCS_OUTREMER_TOOLTIP"/>
+		
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" RequirementSetId="REQSET_LEADER_IS_ISABELLA" Description="LOC_UNLOCK_PLAY_AS_ISABELLA_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_ISABELLA_TCS_OUTREMER_TOOLTIP"/>
+	</UnlockRequirements>
+	<UnlockConfigurationValues>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" ConfigurationValue="CIVILIZATION_TCS_OUTREMER"/>
+	</UnlockConfigurationValues>
+	<RequirementSets>
+		<InsertOrIgnore RequirementSetId="REQSET_CIV_IS_ROME" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+	</RequirementSets>
+	<Requirements>
+		<InsertOrIgnore RequirementId="REQ_CIV_IS_ROME" RequirementType="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES"/>
+	</Requirements>
+	<RequirementArguments>
+		<InsertOrIgnore RequirementId="REQ_CIV_IS_ROME" Name="CivilizationType" Value="CIVILIZATION_ROME"/>
+	</RequirementArguments>
+	<RequirementSetRequirements>
+		<InsertOrIgnore RequirementSetId="REQSET_CIV_IS_ROME" RequirementId="REQ_CIV_IS_ROME"/>
+	</RequirementSetRequirements>
+</Database>

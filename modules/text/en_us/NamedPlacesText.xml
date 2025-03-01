@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!--Rivers-->
+		<Row Tag="LOC_RIVER_TCS_NAHAL_BETZET_NAME">
+			<Text>Nahal Betzet</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_KZIV_NAME">
+			<Text>Nahal Kziv</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_GA_ATON_NAME">
+			<Text>Ga'aton River</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_NAAMAN_NAME">
+			<Text>Nahal Na‘aman</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_KISHON_NAME">
+			<Text>Kishon River</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_TANINIM_NAME">
+			<Text>Nahal Taninim</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_HADERA_STREAM_NAME">
+			<Text>Hadera Stream</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_ALEXANDER_NAME">
+			<Text>Nahal Alexander</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_POLEG_NAME">
+			<Text>Nahal Poleg</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_YARKON_NAME">
+			<Text>Yarkon River</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_AYALON_NAME">
+			<Text>Ayalon River</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_QANA_NAME">
+			<Text>Nahal Qana</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_SHILLO_NAME">
+			<Text>Nahal Shillo</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_SOREK_NAME">
+			<Text>Nahal Sorek</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_LAKHISH_NAME">
+			<Text>Lakhish River</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_SHIKMA_NAME">
+			<Text>Nahal Shikma</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_HABESOR_STREAM_NAME">
+			<Text>HaBesor Stream</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_GERAR_NAME">
+			<Text>Nahal Gerar</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_BE_ER_SHEVA_NAME">
+			<Text>Nahal Be'er Sheva</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_HEVRON_NAME">
+			<Text>Nahal Hevron</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_HAROD_NAME">
+			<Text>Nahal Harod</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_YISSAKHAR_NAME">
+			<Text>Nahal Yissakhar</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_TAVOR_NAME">
+			<Text>Nahal Tavor</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_YARMOUK_NAME">
+			<Text>Yarmouk River</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_YAVNE_EL_NAME">
+			<Text>Nahal Yavne’el</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_ARBEL_NAME">
+			<Text>Nahal Arbel</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_AMUD_NAME">
+			<Text>Nahal Amud</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_KORAZIM_NAME">
+			<Text>Nahal Korazim</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_HAZOR_NAME">
+			<Text>Nahal Hazor</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_DISHON_NAME">
+			<Text>Nahal Dishon</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_HASBANI_NAME">
+			<Text>Hasbani River</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_AYUN_NAME">
+			<Text>Nahal Ayun</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_DAN_NAME">
+			<Text>Dan River</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_BANIAS_NAME">
+			<Text>Banias River</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_HAARAVA_NAME">
+			<Text>Nahal HaArava</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_NEQAROT_NAME">
+			<Text>Nahal Neqarot</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_RAMON_NAME">
+			<Text>Nahal Ramon</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_SHIVYA_NAME">
+			<Text>Nahal Shivya</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_PARAN_NAME">
+			<Text>Nahal Paran</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_HIYYON_NAME">
+			<Text>Nahal Hiyyon</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_ZIN_NAME">
+			<Text>Nahal Zin</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_TZE_ELIM_STREAM_NAME">
+			<Text>Tze'elim Stream</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_MISHMAR_NAME">
+			<Text>Nahal Mishmar</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_HEVER_NAME">
+			<Text>Nahal Hever</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_SHAHMON_NAME">
+			<Text>Nahal Shahmon</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TCS_NAHAL_SHELOMO_NAME">
+			<Text>Nahal Shelomo</Text>
+		</Row>
+		
+		<!--Volcanos-->
+		<Row Tag="LOC_VOLCANO_TCS_HORNS_OF_HATTIN_NAME">
+			<Text>Horns of Hattin</Text>
+		</Row>
+		<Row Tag="LOC_VOLCANO_TCS_PERES_NAME">
+			<Text>Mount Peres</Text>
+		</Row>
+		
+		<!--Mountains-->
+		<Row Tag="LOC_MOUNTAIN_TCS_EILAT_NAME">
+			<Text>Eilat Mountains</Text>
+		</Row>
+		<Row Tag="LOC_MOUNTAIN_TCS_JUDAEAN_NAME">
+			<Text>Judaean Mountains</Text>
+		</Row>
+		<Row Tag="LOC_MOUNTAIN_TCS_NEGEV_NAME">
+			<Text>Negev Mountains</Text>
+		</Row>
+		<Row Tag="LOC_MOUNTAIN_TCS_SHEPHELAH_HILLS_NAME">
+			<Text>Shephelah Hills</Text>
+		</Row>
+		<Row Tag="LOC_MOUNTAIN_TCS_SAMARIAN_HILLS_NAME">
+			<Text>Samarian Hills</Text>
+		</Row>
+		<Row Tag="LOC_MOUNTAIN_TCS_JERUSALEM_HILLS_NAME">
+			<Text>Jerusalem Hills</Text>
+		</Row>
+		<Row Tag="LOC_MOUNTAIN_TCS_HEBRON_HILLS_NAME">
+			<Text>Hebron Hills</Text>
+		</Row>
+		<Row Tag="LOC_MOUNTAIN_TCS_MENASHE_HEIGHTS_NAME">
+			<Text>Menashe Heights</Text>
+		</Row>
+		<Row Tag="LOC_MOUNTAIN_TCS_LADDER_OF_TYRE_NAME">
+			<Text>Ladder of Tyre</Text>
+		</Row>
+		<Row Tag="LOC_MOUNTAIN_TCS_CARMEL_NAME">
+			<Text>Carmel Range</Text>
+		</Row>
+		<Row Tag="LOC_MOUNTAIN_TCS_HERMON_NAME">
+			<Text>Hermon Range</Text>
+		</Row>
+		
+		<!--Deserts-->
+		<Row Tag="LOC_DESERT_TCS_NEGEV_NAME">
+			<Text>Negev Desert</Text>
+		</Row>
+		<Row Tag="LOC_DESERT_TCS_JUDAEAN_NAME">
+			<Text>Judaean Desert</Text>
+		</Row>
+		<Row Tag="LOC_DESERT_TCS_ZIN_NAME">
+			<Text>Zin Desert</Text>
+		</Row>
+	</EnglishText>
+</Database>
+

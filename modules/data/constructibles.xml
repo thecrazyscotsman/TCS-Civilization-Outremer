@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Kinds>
+		<InsertOrIgnore Kind="KIND_CONSTRUCTIBLE"/>
+	</Kinds>
+	<Types>
+		<!--Civ Unique Buildings-->
+		<Row Type="BUILDING_TCS_COMMANDERY" Kind="KIND_CONSTRUCTIBLE"/>
+	</Types>
+	<Constructibles>
+		<Row ConstructibleType="BUILDING_TCS_COMMANDERY" Name="LOC_BUILDING_TCS_COMMANDERY_NAME" Description="LOC_BUILDING_TCS_COMMANDERY_DESCRIPTION" Tooltip="LOC_BUILDING_TCS_COMMANDERY_TOOLTIP" ConstructibleClass="BUILDING" Cost="320" Population="1" Age="AGE_EXPLORATION" DistrictDefense="true"/>
+	</Constructibles>
+	<Buildings>
+		<Row ConstructibleType="BUILDING_TCS_COMMANDERY" Movable="false" Town="true" TraitType="TRAIT_TCS_OUTREMER"/>
+	</Buildings>
+	<TypeTags>
+		<Row Type="BUILDING_TCS_COMMANDERY" Tag="UNIQUE"/>
+		<Row Type="BUILDING_TCS_COMMANDERY" Tag="AGELESS"/>
+		<Row Type="BUILDING_TCS_COMMANDERY" Tag="FULL_TILE"/>
+		<Row Type="BUILDING_TCS_COMMANDERY" Tag="FORTIFICATION"/>
+		<Row Type="BUILDING_TCS_COMMANDERY" Tag="GOLD"/>
+	</TypeTags>
+	<Constructible_ValidDistricts>
+		<Row ConstructibleType="BUILDING_TCS_COMMANDERY" DistrictType="DISTRICT_CITY_CENTER"/>
+		<Row ConstructibleType="BUILDING_TCS_COMMANDERY" DistrictType="DISTRICT_URBAN"/>
+	</Constructible_ValidDistricts>
+	<Constructible_YieldChanges>
+		<Row ConstructibleType="BUILDING_TCS_COMMANDERY" YieldType="YIELD_GOLD" YieldChange="4"/>
+		<Row ConstructibleType="BUILDING_TCS_COMMANDERY" YieldType="YIELD_DIPLOMACY" YieldChange="1"/>
+	</Constructible_YieldChanges>
+	<Constructible_Adjacencies>
+		<Row ConstructibleType="BUILDING_TCS_COMMANDERY" YieldChangeId="WonderGold"/>
+		<Row ConstructibleType="BUILDING_TCS_COMMANDERY" YieldChangeId="CommanderyRuralGold"/>
+	</Constructible_Adjacencies>
+	<Constructible_Maintenances>
+		<Row ConstructibleType="BUILDING_TCS_COMMANDERY" YieldType="YIELD_HAPPINESS" Amount="3"/>
+	</Constructible_Maintenances>
+	<Constructible_Advisories>
+		<Row ConstructibleType="BUILDING_TCS_COMMANDERY" AdvisoryClassType="ADVISORY_CLASS_ECONOMIC"/>
+		<Row ConstructibleType="BUILDING_TCS_COMMANDERY" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row ConstructibleType="BUILDING_TCS_COMMANDERY" AdvisoryClassType="ADVISORY_CLASS_DEFENSE"/>
+	</Constructible_Advisories>
+	<Adjacency_YieldChanges>
+		<Row ID="CommanderyRuralGold" YieldType="YIELD_GOLD" YieldChange="2" TilesRequired="1" AdjacentDistrict="DISTRICT_RURAL"/>
+	</Adjacency_YieldChanges>
+	<Constructible_Plunders>
+		<Row ConstructibleType="BUILDING_TCS_COMMANDERY" PlunderType="PLUNDER_GOLD" Amount="160"/>
+	</Constructible_Plunders>
+	<ConstructibleModifiers>
+		<!--Wonders-->
+		<!--<Row ConstructibleType="WONDER_SERPENT_MOUND" ModifierId="MOD_SERPENT_MOUND_UNIQUE_IMPROVEMENT_YIELD"/>-->
+	</ConstructibleModifiers>
+	<!--<Constructible_Logistics>
+		<Row ConstructibleType="BUILDING_TCS_COMMANDERY" MaxHealPerTurn="0" CombatStrength="3"/>
+	</Constructible_Logistics>-->
+</Database>

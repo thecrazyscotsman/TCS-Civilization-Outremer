@@ -1,0 +1,109 @@
+<Database>
+	<NamedVolcanoCivilizations>
+		<Row NamedVolcanoType="TCS_HORNS_OF_HATTIN" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedVolcanoType="TCS_PERES" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+	</NamedVolcanoCivilizations>
+	<NamedVolcanoes>
+		<Row NamedVolcanoType="TCS_HORNS_OF_HATTIN" Name="LOC_VOLCANO_TCS_HORNS_OF_HATTIN_NAME"/>
+		<Row NamedVolcanoType="TCS_PERES" Name="LOC_VOLCANO_TCS_PERES_NAME"/>
+	</NamedVolcanoes>
+	<NamedRiverCivilizations>
+		<Row NamedRiverType="TCS_NAHAL_BETZET" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_KZIV" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_GA_ATON" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_NAAMAN" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_KISHON" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_TANINIM" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_HADERA_STREAM" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_ALEXANDER" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_POLEG" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_YARKON" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_AYALON" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_QANA" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_SHILLO" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_SOREK" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_LAKHISH" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_SHIKMA" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_HABESOR_STREAM" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_GERAR" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_BE_ER_SHEVA" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_HEVRON" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_HAROD" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_YISSAKHAR" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_TAVOR" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_YARMOUK" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_YAVNE_EL" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_ARBEL" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_AMUD" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_KORAZIM" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_HAZOR" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_DISHON" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_HASBANI" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_AYUN" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_DAN" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_BANIAS" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_HAARAVA" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_NEQAROT" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_RAMON" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_SHIVYA" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_PARAN" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_HIYYON" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_ZIN" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_TZE_ELIM_STREAM" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_MISHMAR" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_HEVER" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_SHAHMON" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+		<Row NamedRiverType="TCS_NAHAL_SHELOMO" CivilizationType="CIVILIZATION_TCS_OUTREMER"/>
+	</NamedRiverCivilizations>
+	<NamedRivers>
+		<Row NamedRiverType="TCS_NAHAL_BETZET" Name="LOC_RIVER_TCS_NAHAL_BETZET_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_KZIV" Name="LOC_RIVER_TCS_NAHAL_KZIV_NAME"/>
+		<Row NamedRiverType="TCS_GA_ATON" Name="LOC_RIVER_TCS_GA_ATON_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_NAAMAN" Name="LOC_RIVER_TCS_NAHAL_NAAMAN_NAME"/>
+		<Row NamedRiverType="TCS_KISHON" Name="LOC_RIVER_TCS_KISHON_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_TANINIM" Name="LOC_RIVER_TCS_NAHAL_TANINIM_NAME"/>
+		<Row NamedRiverType="TCS_HADERA_STREAM" Name="LOC_RIVER_TCS_HADERA_STREAM_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_ALEXANDER" Name="LOC_RIVER_TCS_NAHAL_ALEXANDER_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_POLEG" Name="LOC_RIVER_TCS_NAHAL_POLEG_NAME"/>
+		<Row NamedRiverType="TCS_YARKON" Name="LOC_RIVER_TCS_YARKON_NAME"/>
+		<Row NamedRiverType="TCS_AYALON" Name="LOC_RIVER_TCS_AYALON_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_QANA" Name="LOC_RIVER_TCS_NAHAL_QANA_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_SHILLO" Name="LOC_RIVER_TCS_NAHAL_SHILLO_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_SOREK" Name="LOC_RIVER_TCS_NAHAL_SOREK_NAME"/>
+		<Row NamedRiverType="TCS_LAKHISH" Name="LOC_RIVER_TCS_LAKHISH_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_SHIKMA" Name="LOC_RIVER_TCS_NAHAL_SHIKMA_NAME"/>
+		<Row NamedRiverType="TCS_HABESOR_STREAM" Name="LOC_RIVER_TCS_HABESOR_STREAM_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_GERAR" Name="LOC_RIVER_TCS_NAHAL_GERAR_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_BE_ER_SHEVA" Name="LOC_RIVER_TCS_NAHAL_BE_ER_SHEVA_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_HEVRON" Name="LOC_RIVER_TCS_NAHAL_HEVRON_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_HAROD" Name="LOC_RIVER_TCS_NAHAL_HAROD_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_YISSAKHAR" Name="LOC_RIVER_TCS_NAHAL_YISSAKHAR_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_TAVOR" Name="LOC_RIVER_TCS_NAHAL_TAVOR_NAME"/>
+		<Row NamedRiverType="TCS_YARMOUK" Name="LOC_RIVER_TCS_YARMOUK_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_YAVNE_EL" Name="LOC_RIVER_TCS_NAHAL_YAVNE_EL_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_ARBEL" Name="LOC_RIVER_TCS_NAHAL_ARBEL_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_AMUD" Name="LOC_RIVER_TCS_NAHAL_AMUD_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_KORAZIM" Name="LOC_RIVER_TCS_NAHAL_KORAZIM_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_HAZOR" Name="LOC_RIVER_TCS_NAHAL_HAZOR_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_DISHON" Name="LOC_RIVER_TCS_NAHAL_DISHON_NAME"/>
+		<Row NamedRiverType="TCS_HASBANI" Name="LOC_RIVER_TCS_HASBANI_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_AYUN" Name="LOC_RIVER_TCS_NAHAL_AYUN_NAME"/>
+		<Row NamedRiverType="TCS_DAN" Name="LOC_RIVER_TCS_DAN_NAME"/>
+		<Row NamedRiverType="TCS_BANIAS" Name="LOC_RIVER_TCS_BANIAS_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_HAARAVA" Name="LOC_RIVER_TCS_NAHAL_HAARAVA_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_NEQAROT" Name="LOC_RIVER_TCS_NAHAL_NEQAROT_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_RAMON" Name="LOC_RIVER_TCS_NAHAL_RAMON_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_SHIVYA" Name="LOC_RIVER_TCS_NAHAL_SHIVYA_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_PARAN" Name="LOC_RIVER_TCS_NAHAL_PARAN_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_HIYYON" Name="LOC_RIVER_TCS_NAHAL_HIYYON_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_ZIN" Name="LOC_RIVER_TCS_NAHAL_ZIN_NAME"/>
+		<Row NamedRiverType="TCS_TZE_ELIM_STREAM" Name="LOC_RIVER_TCS_TZE_ELIM_STREAM_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_MISHMAR" Name="LOC_RIVER_TCS_NAHAL_MISHMAR_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_HEVER" Name="LOC_RIVER_TCS_NAHAL_HEVER_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_SHAHMON" Name="LOC_RIVER_TCS_NAHAL_SHAHMON_NAME"/>
+		<Row NamedRiverType="TCS_NAHAL_SHELOMO" Name="LOC_RIVER_TCS_NAHAL_SHELOMO_NAME"/>
+	</NamedRivers>
+</Database>
+
+
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!--Civ Unique Buildings-->
+		<Row Tag="LOC_BUILDING_TCS_COMMANDERY_NAME">
+			<Text>Commandery</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TCS_COMMANDERY_DESCRIPTION">
+			<Text>Outremer Unique Building. +4 [icon:YIELD_GOLD] Gold and +1 [icon:YIELD_DIPLOMACY] Influence. +2 [icon:YIELD_GOLD] Gold for each adjacent Rural District. Acts as a Fortified District that must be conquered. Occupies a full tile and cannot be paired with another Building. Can be purchased in Towns. Ageless.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TCS_COMMANDERY_TOOLTIP">
+			<Text>Outremer Unique Building. Acts as a Fortified District that must be conquered. Occupies a full tile and cannot be paired with another Building. Can be purchased in Towns. Ageless.</Text>
+		</Row>
+	</EnglishText>
+</Database>

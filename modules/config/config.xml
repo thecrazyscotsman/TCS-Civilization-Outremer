@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LeaderCivilizationBias>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_TCS_OUTREMER" LeaderDomain="StandardLeaders" LeaderType="LEADER_CHARLEMAGNE" Bias="2" ReasonType="LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_TCS_OUTREMER_TOOLTIP" ChoiceType="LOC_CREATE_GAME_HISTORICAL_CHOICE"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_TCS_OUTREMER" LeaderDomain="StandardLeaders" LeaderType="LEADER_ISABELLA" Bias="2" ReasonType="LOC_UNLOCK_PLAY_AS_ISABELLA_TCS_OUTREMER_TOOLTIP" ChoiceType="LOC_CREATE_GAME_GEOGRAPHIC_CHOICE"/>
+	</LeaderCivilizationBias>
+	<Civilizations>
+		<Row Domain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_TCS_OUTREMER" CivilizationName="LOC_CIVILIZATION_TCS_OUTREMER_NAME" CivilizationFullName="LOC_CIVILIZATION_TCS_OUTREMER_FULLNAME" CivilizationDescription="LOC_CIVILIZATION_TCS_OUTREMER_DESCRIPTION" CivilizationIcon="civ_sym_tcs_outremer.png"/>
+	</Civilizations>
+	<CivilizationItems>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_TCS_OUTREMER" Type="TRAIT_TCS_OUTREMER_ABILITY" Kind="KIND_TRAIT" Name="LOC_TRAIT_TCS_OUTREMER_ABILITY_NAME" Description="LOC_TRAIT_TCS_OUTREMER_ABILITY_DESCRIPTION"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_TCS_OUTREMER" Type="UNIT_TCS_CRUSADER" Kind="KIND_UNIT" Name="LOC_UNIT_TCS_CRUSADER_NAME" Description="LOC_UNIT_TCS_CRUSADER_DESCRIPTION" Icon="unitflag_tcs_crusader.png"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_TCS_OUTREMER" Type="UNIT_TCS_PILGRIM" Kind="KIND_UNIT" Name="LOC_UNIT_TCS_PILGRIM_NAME" Description="LOC_UNIT_TCS_PILGRIM_DESCRIPTION" Icon="unitflag_tcs_pilgrim.png"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_TCS_OUTREMER" Type="BUILDING_TCS_COMMANDERY" Kind="KIND_BUILDING" Name="LOC_BUILDING_TCS_COMMANDERY_NAME" Description="LOC_BUILDING_TCS_COMMANDERY_DESCRIPTION" Icon="buildicon_tcs_commandery.png"/>
+	</CivilizationItems>
+	<CivilizationTags>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_TCS_OUTREMER" TagType="TAG_TRAIT_POLITICAL"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_TCS_OUTREMER" TagType="TAG_TRAIT_MILITARISTIC"/>
+	</CivilizationTags>
+	<CivilizationUnlocks>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_ROME" AgeDomain="StandardAges" AgeType="AGE_EXPLORATION" Type="CIVILIZATION_TCS_OUTREMER" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_TCS_OUTREMER_NAME" Description="LOC_CIVILIZATION_TCS_OUTREMER_DESCRIPTION" Icon="ICON_CIVILIZATION_TCS_OUTREMER"/>
+		<Row CivilizationDomain="ExplorationAgeCivilizations" CivilizationType="CIVILIZATION_TCS_OUTREMER" AgeDomain="StandardAges" AgeType="AGE_MODERN" Type="CIVILIZATION_FRENCH_EMPIRE" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_FRENCH_EMPIRE_NAME" Description="LOC_CIVILIZATION_FRENCH_EMPIRE_DESCRIPTION" Icon="ICON_CIVILIZATION_FRENCH_EMPIRE"/>
+	</CivilizationUnlocks>
+	<LeaderUnlocks>
+		<Row LeaderDomain="StandardLeaders" LeaderType="LEADER_CHARLEMAGNE" AgeDomain="StandardAges" AgeType="AGE_EXPLORATION" Type="CIVILIZATION_TCS_OUTREMER" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_TCS_OUTREMER_NAME" Description="LOC_CIVILIZATION_TCS_OUTREMER_DESCRIPTION" Icon="ICON_CIVILIZATION_TCS_OUTREMER"/>
+		<Row LeaderDomain="StandardLeaders" LeaderType="LEADER_ISABELLA" AgeDomain="StandardAges" AgeType="AGE_EXPLORATION" Type="CIVILIZATION_TCS_OUTREMER" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_TCS_OUTREMER_NAME" Description="LOC_CIVILIZATION_TCS_OUTREMER_DESCRIPTION" Icon="ICON_CIVILIZATION_TCS_OUTREMER"/>
+	</LeaderUnlocks>
+</Database>

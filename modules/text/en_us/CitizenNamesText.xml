@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_MALE_1">
+			<Text>Amis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_MALE_2">
+			<Text>Evrard</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_MALE_3">
+			<Text>Galierus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_MALE_4">
+			<Text>Hann</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_MALE_5">
+			<Text>Johannes</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_MALE_6">
+			<Text>Milo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_MALE_7">
+			<Text>Nāṣir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_MALE_8">
+			<Text>Symon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_MALE_9">
+			<Text>Theobald</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_MALE_10">
+			<Text>Villenc</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_FEMALE_1">
+			<Text>Agnes</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_FEMALE_2">
+			<Text>Aldreda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_FEMALE_3">
+			<Text>Burayha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_FEMALE_4">
+			<Text>Gislān</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_FEMALE_5">
+			<Text>Ḥawā'</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_FEMALE_6">
+			<Text>Iseut</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_FEMALE_7">
+			<Text>Jocosa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_FEMALE_8">
+			<Text>Mary</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_FEMALE_9">
+			<Text>Rhecia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_TCS_OUTREMER_FEMALE_10">
+			<Text>Ṭarūb</Text>
+		</Row>
+	</EnglishText>
+</Database>

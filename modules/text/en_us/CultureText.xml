@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+
+		<!-- ==================================================	-->
+		<!--	OUTREMER							-->
+		<!-- ==================================================	-->
+		<Row Tag="LOC_TREE_CIVICS_EX_TCS_OUTREMER_NAME">
+			<Text>Outremer Civics</Text>
+		</Row>
+		
+		<Row Tag="LOC_CIVIC_TCS_OUTREMER_DEUS_VULT_NAME">
+			<Text>Deus Vult</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_TCS_OUTREMER_DEUS_VULT_QUOTE">
+			<Text>Christ commands it!</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_TCS_OUTREMER_DEUS_VULT_QUOTE_AUTHOR">
+			<Text>Pope Urban II</Text>
+		</Row>
+		
+		<Row Tag="LOC_CIVIC_TCS_OUTREMER_PAX_ET_TREUGA_DEI_NAME">
+			<Text>Pax et Treuga Dei</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_TCS_OUTREMER_PAX_ET_TREUGA_DEI_QUOTE">
+			<Text>But now, O brave knight, now, O warlike hero, here is a battle you may fight without danger, where it is glory to conquer and gain to die.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_TCS_OUTREMER_PAX_ET_TREUGA_DEI_QUOTE_AUTHOR">
+			<Text>Bernard of Clairvaux</Text>
+		</Row>
+		
+		<Row Tag="LOC_CIVIC_TCS_OUTREMER_ADVOCATUS_SANCTI_SEPULCHRI_NAME">
+			<Text>Advocatus Sancti Sepulchri</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_TCS_OUTREMER_ADVOCATUS_SANCTI_SEPULCHRI_QUOTE">
+			<Text>Although he was elected king, the king refused to be titled, nor to be crowned, but to serve under Christ.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_TCS_OUTREMER_ADVOCATUS_SANCTI_SEPULCHRI_QUOTE_AUTHOR">
+			<Text>Melchior de Vogüé</Text>
+		</Row>
+		
+		<!--Outremer Civic Description-->
+		<Row Tag="LOC_MOD_TCS_CIVIC_DEUS_VULT_TIER_1_DESCRIPTION">
+			<Text>Commanders gain the Regiments Promotion.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_TCS_CIVIC_DEUS_VULT_TIER_2_FOOD_DESCRIPTION">
+			<Text>Settlements in Distant Lands generate +4[icon:YIELD_FOOD] Food.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_TCS_CIVIC_DEUS_VULT_TIER_2_INFLUENCE_DESCRIPTION">
+			<Text>Settlements in Distant Lands generate +1[icon:YIELD_DIPLOMACY] Influence.</Text>
+		</Row>
+		
+		<Row Tag="LOC_MOD_TCS_CIVIC_PAX_ET_TREUGA_DEI_TIER_1_DESCRIPTION">
+			<Text>+50%[icon:YIELD_DIPLOMACY] Influence towards initiating or accepting Military Aid Agreements.</Text>
+		</Row>
+		
+		<Row Tag="LOC_MOD_TCS_CIVIC_ADVOCATUS_SANCTI_SEPULCHRI_TIER_1_DESCRIPTION">
+			<Text>Commanderies generate +2[icon:YIELD_DIPLOMACY] Influence.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_TCS_CIVIC_ADVOCATUS_SANCTI_SEPULCHRI_TIER_2_DESCRIPTION">
+			<Text>Temples receive an additional Relic slot.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_TCS_CIVIC_ADVOCATUS_SANCTI_SEPULCHRI_TIER_2_RELICS_DESCRIPTION">
+			<Text>Receive 2 Relics.</Text>
+		</Row>
+
+		<!--Outremer Unique Traditions-->
+		<Row Tag="LOC_TRADITION_TCS_PACTUM_WARMUNDI_NAME">
+			<Text>Pactum Warmundi</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_TCS_PACTUM_WARMUNDI_DESCRIPTION">
+			<Text>Land Units receive +2 Movement when Embarked.</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRADITION_TCS_MILITARIS_ORDO_NAME">
+			<Text>Militaris Ordo</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_TCS_MILITARIS_ORDO_DESCRIPTION">
+			<Text>+50%[icon:YIELD_GOLD] Gold Efficiency towards purchasing Cavalry Units.</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRADITION_TCS_HAUTE_COUR_NAME">
+			<Text>Haute Cour</Text>
+		</Row>
+		<Row Tag="LOC_TRADITION_TCS_HAUTE_COUR_DESCRIPTION">
+			<Text>Settlements in Distant Lands receive [icon:YIELD_HAPPINESS] Happiness equal to their [icon:YIELD_DIPLOMACY] Influence Yield.</Text>
+		</Row>
+
+	</EnglishText>
+</Database>

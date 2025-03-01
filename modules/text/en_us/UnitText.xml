@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!-- Outremer Unique Units -->
+		<Row Tag="LOC_UNIT_TCS_CRUSADER_NAME">
+			<Text>Crusader</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TCS_CRUSADER_BASE_DESCRIPTION">
+			<Text>Outremer Unique Cavalry Unit. +3 Combat Strength for every Alliance. Has 1 charge to Spread Religion. Ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TCS_CRUSADER_DESCRIPTION">
+			<Text>Tier 1 Outremer Cavalry Unit. +3 Combat Strength for every Alliance. Has 1 charge to Spread Religion. Ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TCS_CRUSADER_2_DESCRIPTION">
+			<Text>Tier 2 Outremer Cavalry Unit. +3 Combat Strength for every Alliance. Has 1 charge to Spread Religion. Ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TCS_CRUSADER_3_DESCRIPTION">
+			<Text>Tier 3 Outremer Cavalry Unit. +3 Combat Strength for every Alliance. Has 1 charge to Spread Religion. Ignores Zone of Control.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TCS_CRUSADER_DESCRIPTION">
+			<Text>+3 Combat Strength for every Alliance, up to a maximum of +6.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TCS_CRUSADER_PREVIEW_1">
+			<Text>+{1_Amount} Alliance</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TCS_CRUSADER_PREVIEW_2">
+			<Text>+{1_Amount} Alliance</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_TCS_PILGRIM_NAME">
+			<Text>Pilgrim</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TCS_PILGRIM_DESCRIPTION">
+			<Text>Outremer Unique Settler. When a Town is created in Distant Lands, it converts to your Religion. May move through Foreign Lands. Can not be Trained.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TCS_PILGRIM_DESCRIPTION">
+			<Text>When a Town is created in Distant Lands, it converts to your Religion.</Text>
+		</Row>
+	</EnglishText>
+</Database>

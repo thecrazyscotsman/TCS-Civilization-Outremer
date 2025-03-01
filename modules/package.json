@@ -1,0 +1,15 @@
+{
+  "name": "tcs-outremer",
+  "description": "Civilization 7 Outremer Module",
+  "author": "thecrazyscotsman",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./*": "./src/*"
+  },
+  "dependencies": {
+    "modding-sdk": "workspace:*"
+  }
+}

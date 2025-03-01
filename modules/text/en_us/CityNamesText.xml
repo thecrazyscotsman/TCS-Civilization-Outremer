@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<!--OUTREMER-->
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER1">
+			<Text>Jerusalem</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER2">
+			<Text>Acre</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER3">
+			<Text>Tyre</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER4">
+			<Text>Ascalon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER5">
+			<Text>Jaffa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER6">
+			<Text>Kerak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER7">
+			<Text>Ramla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER8">
+			<Text>Ibelin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER9">
+			<Text>Antioch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER10">
+			<Text>Turbessel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER11">
+			<Text>Nazareth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER12">
+			<Text>Haifa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER13">
+			<Text>Edessa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER14">
+			<Text>Toron</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER15">
+			<Text>Castel Neuf</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER16">
+			<Text>Sidon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER17">
+			<Text>Mons Regalis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER18">
+			<Text>Beaufort</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER19">
+			<Text>Arsuf</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER20">
+			<Text>Bethsan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER21">
+			<Text>Blanchegarde</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER22">
+			<Text>Caymont</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER23">
+			<Text>Dera</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER24">
+			<Text>Hebron</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER25">
+			<Text>Beth Gibelin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER26">
+			<Text>Montgisard</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER27">
+			<Text>Nablus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER28">
+			<Text>Scandeleon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER29">
+			<Text>Lydda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TCS_OUTREMER30">
+			<Text>Beirut</Text>
+		</Row>
+	</EnglishText>
+</Database>

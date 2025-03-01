@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Types>
+		<!--Civ Unique Military-->
+		<Row Type="UNIT_TCS_CRUSADER" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_TCS_CRUSADER_2" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_TCS_CRUSADER_3" Kind="KIND_UNIT"/>
+		<!--Civ Unique Civilian-->
+		<Row Type="UNIT_TCS_PILGRIM" Kind="KIND_UNIT"/>
+		<!--Civ Unique Abilities-->
+		<Row Type="ABILITY_TCS_CRUSADER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_TCS_PILGRIM" Kind="KIND_ABILITY"/>
+	</Types>
+	<Units>
+		<!--Civ Unique Military-->
+		<Row UnitType="UNIT_TCS_CRUSADER" Name="LOC_UNIT_TCS_CRUSADER_NAME" Description="LOC_UNIT_TCS_CRUSADER_DESCRIPTION" Tier="1" Maintenance="2" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" SpreadCharges="1" TraitType="TRAIT_TCS_OUTREMER"/>
+		<Row UnitType="UNIT_TCS_CRUSADER_2" Name="LOC_UNIT_TCS_CRUSADER_NAME" Description="LOC_UNIT_TCS_CRUSADER_2_DESCRIPTION" Tier="2" Maintenance="3" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" SpreadCharges="1" TraitType="TRAIT_TCS_OUTREMER"/>
+		<Row UnitType="UNIT_TCS_CRUSADER_3" Name="LOC_UNIT_TCS_CRUSADER_NAME" Description="LOC_UNIT_TCS_CRUSADER_3_DESCRIPTION" Tier="3" Maintenance="4" BaseSightRange="2" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_MOUNTED" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_MILITARY" FormationClass="FORMATION_CLASS_LAND_COMBAT" ZoneOfControl="true" SpreadCharges="1" TraitType="TRAIT_TCS_OUTREMER"/>
+		<!--Civ Unique Civilian-->
+		<Row UnitType="UNIT_TCS_PILGRIM" Name="LOC_UNIT_TCS_PILGRIM_NAME" Description="LOC_UNIT_TCS_PILGRIM_DESCRIPTION" BaseSightRange="1" BaseMoves="3" UnitMovementClass="UNIT_MOVEMENT_CLASS_FOOT" Domain="DOMAIN_LAND" CoreClass="CORE_CLASS_CIVILIAN" FormationClass="FORMATION_CLASS_CIVILIAN" ZoneOfControl="false" CanTrain="false" TraitType="TRAIT_TCS_OUTREMER"/>
+	</Units>
+	<Unit_Stats>
+		<!--Civ Unique Military-->
+		<Row UnitType="UNIT_TCS_CRUSADER" Combat="40"/>
+		<Row UnitType="UNIT_TCS_CRUSADER_2" Combat="45"/>
+		<Row UnitType="UNIT_TCS_CRUSADER_3" Combat="50"/>
+	</Unit_Stats>
+	<Unit_Costs>
+		<!--Civ Unique Military-->
+		<Row UnitType="UNIT_TCS_CRUSADER" YieldType="YIELD_PRODUCTION" Cost="150"/>
+		<Row UnitType="UNIT_TCS_CRUSADER_2" YieldType="YIELD_PRODUCTION" Cost="190"/>
+		<Row UnitType="UNIT_TCS_CRUSADER_3" YieldType="YIELD_PRODUCTION" Cost="240"/>
+		<!--Civ Unique Civilian-->
+		<Row UnitType="UNIT_TCS_PILGRIM" YieldType="YIELD_FOOD" Cost="1"/>
+	</Unit_Costs>
+	<Unit_Advisories>
+		<Row UnitType="UNIT_TCS_CRUSADER" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_TCS_CRUSADER_2" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<Row UnitType="UNIT_TCS_CRUSADER_3" AdvisoryClassType="ADVISORY_CLASS_MILITARY"/>
+		<!--Civ Unique Civilian-->
+		<Row UnitType="UNIT_TCS_PILGRIM" AdvisoryClassType="ADVISORY_CLASS_FOOD"/>
+	</Unit_Advisories>
+	<UnitUpgrades>
+		<!--Civ Unique Military-->
+		<Row Unit="UNIT_TCS_CRUSADER" UpgradeUnit="UNIT_TCS_CRUSADER_2"/>
+		<Row Unit="UNIT_TCS_CRUSADER_2" UpgradeUnit="UNIT_TCS_CRUSADER_3"/>
+	</UnitUpgrades>
+	<UnitReplaces>
+		<!--Civ Unique Military-->
+		<Row CivUniqueUnitType="UNIT_TCS_CRUSADER" ReplacesUnitType="UNIT_COURSER"/>
+		<Row CivUniqueUnitType="UNIT_TCS_CRUSADER_2" ReplacesUnitType="UNIT_KNIGHT"/>
+		<Row CivUniqueUnitType="UNIT_TCS_CRUSADER_3" ReplacesUnitType="UNIT_LANCER"/>
+		<!--Civ Unique Civilian-->
+		<Row CivUniqueUnitType="UNIT_TCS_PILGRIM" ReplacesUnitType="UNIT_SETTLER"/>
+	</UnitReplaces>
+	<Tags>
+		<!--Civ Unique Military-->
+		<Row Tag="UNIT_CLASS_TCS_CRUSADER" Category="UNIT_CLASS"/>
+		<!--Civ Unique Civilian-->
+		<Row Tag="UNIT_CLASS_TCS_PILGRIM" Category="UNIT_CLASS"/>
+	</Tags>
+	<TypeTags>
+		<!--Civ Unique Military-->
+		<Row Type="UNIT_TCS_CRUSADER" Tag="UNIT_CLASS_RELIGIOUS"/>
+		<Row Type="UNIT_TCS_CRUSADER" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_TCS_CRUSADER" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_TCS_CRUSADER" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_TCS_CRUSADER" Tag="UNIT_CLASS_TCS_CRUSADER"/>
+		<Row Type="UNIT_TCS_CRUSADER_2" Tag="UNIT_CLASS_RELIGIOUS"/>
+		<Row Type="UNIT_TCS_CRUSADER_2" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_TCS_CRUSADER_2" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_TCS_CRUSADER_2" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_TCS_CRUSADER_2" Tag="UNIT_CLASS_TCS_CRUSADER"/>
+		<Row Type="UNIT_TCS_CRUSADER_3" Tag="UNIT_CLASS_RELIGIOUS"/>
+		<Row Type="UNIT_TCS_CRUSADER_3" Tag="UNIT_CLASS_COMBAT"/>
+		<Row Type="UNIT_TCS_CRUSADER_3" Tag="UNIT_CLASS_CAVALRY"/>
+		<Row Type="UNIT_TCS_CRUSADER_3" Tag="UNIT_CLASS_MOUNTED"/>
+		<Row Type="UNIT_TCS_CRUSADER_3" Tag="UNIT_CLASS_TCS_CRUSADER"/>
+		<Row Type="UNIT_TCS_CRUSADER_3" Tag="UNIT_CLASS_ELITE_CAVALRY"/>
+		<!--Civ Unique Civilian-->
+		<Row Type="UNIT_TCS_PILGRIM" Tag="UNIT_CLASS_NON_COMBAT"/>
+		<Row Type="UNIT_TCS_PILGRIM" Tag="UNIT_CLASS_CREATE_TOWN"/>
+		<Row Type="UNIT_TCS_PILGRIM" Tag="UNIT_CLASS_TCS_PILGRIM"/>
+	</TypeTags>
+	<UnitClass_Abilities>
+		<Row UnitAbilityType="ABILITY_ENTER_FOREIGN_LANDS" UnitClassType="UNIT_CLASS_TCS_PILGRIM"/>
+		<Row UnitAbilityType="ABILITY_TCS_CRUSADER_1" UnitClassType="UNIT_CLASS_TCS_CRUSADER"/>
+		<Row UnitAbilityType="ABILITY_TCS_CRUSADER_2" UnitClassType="UNIT_CLASS_TCS_CRUSADER"/>
+	</UnitClass_Abilities>
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_TCS_PILGRIM" Name="LOC_UNIT_TCS_PILGRIM_NAME" Description="LOC_ABILITY_TCS_PILGRIM_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TCS_CRUSADER_1" Inactive="true" Permanent="true" Name="LOC_UNIT_TCS_CRUSADER_NAME" Description="LOC_ABILITY_TCS_CRUSADER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TCS_CRUSADER_2" Inactive="true" Permanent="true" Name="LOC_UNIT_TCS_CRUSADER_NAME" Description="LOC_ABILITY_TCS_CRUSADER_DESCRIPTION"/>
+	</UnitAbilities>
+	<UnitAbilityModifiers>
+		<Row UnitAbilityType="ABILITY_TCS_CRUSADER_1" ModifierId="TCS_CRUSADER_MOD_COMBAT_ALLIANCE_COMBAT_STRENGTH_1"/>
+		<Row UnitAbilityType="ABILITY_TCS_CRUSADER_2" ModifierId="TCS_CRUSADER_MOD_COMBAT_ALLIANCE_COMBAT_STRENGTH_2"/>
+	</UnitAbilityModifiers>
+	<RequirementSets>
+	</RequirementSets>
+	<RequirementSetRequirements>
+	</RequirementSetRequirements>
+	<Requirements>
+	</Requirements>
+	<RequirementArguments>
+	</RequirementArguments>
+  <CivilopediaUnitsUniqueUpgrades>
+    <Row BaseUnitType="UNIT_TCS_CRUSADER" UpgradeUnitType="UNIT_TCS_CRUSADER_2" />
+    <Row BaseUnitType="UNIT_TCS_CRUSADER" UpgradeUnitType="UNIT_TCS_CRUSADER_3" />
+  </CivilopediaUnitsUniqueUpgrades>
+</Database>

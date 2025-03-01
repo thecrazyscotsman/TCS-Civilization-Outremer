@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<AiListTypes>
+
+		<!-- Outremer -->
+		<Row ListType="Outremer Unit Biases"/>
+		<Row ListType="Outremer Government Bias"/>
+		<Row ListType="Outremer Settle Plot Conditions" />
+		<Row ListType="Outremer Constructibles Biases" />
+
+	</AiListTypes>
+	<AiLists>
+		<!-- Outremer -->
+		<Row ListType="Outremer Unit Biases" LeaderType="TRAIT_TCS_OUTREMER" System="UnitBiases"/>
+		<Row ListType="Outremer Government Bias" LeaderType="TRAIT_TCS_OUTREMER" System="GovernmentBiases"/>
+		<Row ListType="Outremer Settle Plot Conditions" LeaderType="TRAIT_TCS_OUTREMER" System="SettlementPlotEvaluations"/>
+		<Row ListType="Outremer Constructibles Biases" LeaderType="TRAIT_TCS_OUTREMER" System="ConstructibleBiases" />
+	</AiLists>
+	<AiFavoredItems>
+		<!-- Outremer -->
+		<Row ListType="Outremer Unit Biases" Item="UNIT_TCS_CRUSADER" Value="50"/>
+		<Row ListType="Outremer Unit Biases" Item="UNIT_TCS_CRUSADER_2" Value="50"/>
+		<Row ListType="Outremer Unit Biases" Item="UNIT_TCS_CRUSADER_3" Value="50"/>
+		<Row ListType="Outremer Unit Biases" Item="UNIT_HEAVY_ARCHER" Value="25"/>
+		<Row ListType="Outremer Unit Biases" Item="UNIT_CROSSBOWMAN" Value="25"/>
+		<Row ListType="Outremer Unit Biases" Item="UNIT_ARQUEBUSIER" Value="25"/>
+		<Row ListType="Outremer Government Bias" Item="GOVERNMENT_FEUDAL_MONARCHY" Value="75"/>
+		<Row ListType="Outremer Settle Plot Conditions" Item="Specific Terrain" Value="50" StringVal="TERRAIN_NAVIGABLE_RIVER" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_TERRAIN"/>
+		<Row ListType="Outremer Settle Plot Conditions" Item="Resource Class" Value="50" StringVal="RESOURCECLASS_EMPIRE" TooltipString="LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES"/>
+		<!--<Row ListType="Outremer Constructibles Biases" Item="IMPROVEMENT_MAWASKAWE_SKOTE" Value="200"/>-->
+		<Row ListType="Outremer Constructibles Biases" Item="IMPROVEMENT_FARM" Value="25"/>
+		<Row ListType="Outremer Constructibles Biases" Item="IMPROVEMENT_MINE_RESOURCE" Value="25"/>
+		<Row ListType="Outremer Constructibles Biases" Item="IMPROVEMENT_QUARRY" Value="25"/>
+		<Row ListType="Outremer Constructibles Biases" Item="BUILDING_GUILDHALL" Value="50"/>
+		<Row ListType="Outremer Constructibles Biases" Item="BUILDING_DUNGEON" Value="50"/>
+		<Row ListType="Outremer Constructibles Biases" Item="BUILDING_HOSPITAL" Value="25"/>
+		<Row ListType="Outremer Constructibles Biases" Item="WONDER_NOTRE_DAME" Value="50"/>
+	</AiFavoredItems>
+</Database>

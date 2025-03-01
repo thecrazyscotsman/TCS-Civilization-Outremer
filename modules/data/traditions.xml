@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Kinds>
+		<InsertOrIgnore Kind="KIND_TRADITION"/>
+	</Kinds>
+	<Types>
+		<!-- ==================================================	-->
+		<!--	EXPLORATION							-->
+		<!-- ==================================================	-->
+		<!-- Outremer -->
+		<Row Type="TRADITION_TCS_MILITARIS_ORDO" Kind="KIND_TRADITION"/>
+		<Row Type="TRADITION_TCS_HAUTE_COUR" Kind="KIND_TRADITION"/>
+		<Row Type="TRADITION_TCS_PACTUM_WARMUNDI" Kind="KIND_TRADITION"/>
+	</Types>
+	<Traditions>
+		<!-- ==================================================	-->
+		<!--	EXPLORATION							-->
+		<!-- ==================================================	-->
+		<!-- Outremer -->
+		<Row TraditionType="TRADITION_TCS_MILITARIS_ORDO" Name="LOC_TRADITION_TCS_MILITARIS_ORDO_NAME" Description="LOC_TRADITION_TCS_MILITARIS_ORDO_DESCRIPTION" TraitType="TRAIT_TCS_OUTREMER" AgeType="AGE_EXPLORATION"/>
+		<Row TraditionType="TRADITION_TCS_HAUTE_COUR" Name="LOC_TRADITION_TCS_HAUTE_COUR_NAME" Description="LOC_TRADITION_TCS_HAUTE_COUR_DESCRIPTION" TraitType="TRAIT_TCS_OUTREMER" AgeType="AGE_EXPLORATION"/>
+		<Row TraditionType="TRADITION_TCS_PACTUM_WARMUNDI" Name="LOC_TRADITION_TCS_PACTUM_WARMUNDI_NAME" Description="LOC_TRADITION_TCS_PACTUM_WARMUNDI_DESCRIPTION" TraitType="TRAIT_TCS_OUTREMER" AgeType="AGE_EXPLORATION"/>
+	</Traditions>
+	<TraditionModifiers>
+		<Row TraditionType="TRADITION_TCS_MILITARIS_ORDO" ModifierId="TCS_MILITARIS_ORDO_MOD_CAVALRY_UNIT_PURCHASE"/>
+		<Row TraditionType="TRADITION_TCS_HAUTE_COUR" ModifierId="TCS_HAUTE_COUR_MOD_CITY_HAPPINESS"/>
+		<Row TraditionType="TRADITION_TCS_PACTUM_WARMUNDI" ModifierId="TCS_PACTUM_WARMUNDI_MOD_EMBARK_MOVEMENT"/>
+	</TraditionModifiers>
+</Database>

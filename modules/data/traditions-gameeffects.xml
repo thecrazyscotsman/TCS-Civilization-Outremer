@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameEffects xmlns="GameEffects">
+	<!-- ==================================================	-->
+	<!--	EXPLORATION							-->
+	<!-- ==================================================	-->
+	<!-- Outremer -->
+	<Modifier id="TCS_PACTUM_WARMUNDI_MOD_EMBARK_MOVEMENT" collection="COLLECTION_PLAYER_UNITS" effect="EFFECT_ADJUST_UNIT_EMBARKED_MOVEMENT">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_UNIT_DOMAIN_MATCHES">
+				<Argument name="UnitDomain">DOMAIN_LAND</Argument>
+			</Requirement>
+		</SubjectRequirements>
+		<Argument name="Amount">2</Argument>
+		<Argument name="Tooltip">LOC_TRADITION_TCS_PACTUM_WARMUNDI_NAME</Argument>
+	</Modifier>
+	
+	<Modifier id="TCS_MILITARIS_ORDO_MOD_CAVALRY_UNIT_PURCHASE" collection="COLLECTION_OWNER" effect="EFFECT_ADJUST_PLAYER_OR_CITY_UNIT_PURCHASE_EFFICIENCY">
+		<Argument name="UnitTag">UNIT_CLASS_CAVALRY</Argument>
+		<Argument name="Percent">50</Argument>
+	</Modifier>
+	
+	<Modifier id="TCS_HAUTE_COUR_MOD_CITY_HAPPINESS" collection="COLLECTION_PLAYER_CITIES" effect="EFFECT_CITY_ADJUST_YIELD_CONVERSION">
+		<SubjectRequirements>
+			<Requirement type="REQUIREMENT_CITY_IS_DISTANT_LANDS"/>
+		</SubjectRequirements>
+		<Argument name="FromYieldType">YIELD_DIPLOMACY</Argument>
+		<Argument name="ToYieldType">YIELD_HAPPINESS</Argument>
+		<Argument name="Percent">100</Argument>
+		<Argument name="Tooltip">LOC_TRADITION_TCS_HAUTE_COUR_NAME</Argument>
+	</Modifier>
+</GameEffects>

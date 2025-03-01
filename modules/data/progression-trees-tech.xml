@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<ProgressionTreeNodeUnlocks>
+		<Row ProgressionTreeNodeType="NODE_TECH_EX_HERALDRY" TargetKind="KIND_UNIT" TargetType="UNIT_TCS_CRUSADER_2" UnlockDepth="1" RequiredTraitType="TRAIT_TCS_OUTREMER"/>
+		<Row ProgressionTreeNodeType="NODE_TECH_EX_METAL_CASTING" TargetKind="KIND_UNIT" TargetType="UNIT_TCS_CRUSADER_3" UnlockDepth="1" RequiredTraitType="TRAIT_TCS_OUTREMER"/>
+	</ProgressionTreeNodeUnlocks>
+</Database>

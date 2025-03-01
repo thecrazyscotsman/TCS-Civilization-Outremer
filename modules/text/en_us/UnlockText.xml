@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_ROME_TCS_OUTREMER_DESCRIPTION">
+			<Text>[B]Rome[/B] ruled [B]Outremer[/B] for hundreds of years.</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_TCS_OUTREMER_DESCRIPTION">
+			<Text>[B]Charlemagne's[/B] descendents founded [B]Outremer[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_TCS_OUTREMER_TOOLTIP">
+			<Text>[B]Charlemagne's[/B] descendents founded [B]Outremer[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_ISABELLA_TCS_OUTREMER_DESCRIPTION">
+			<Text>[B]Isabella[/B] had common enemies with [B]Outremer[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_ISABELLA_TCS_OUTREMER_TOOLTIP">
+			<Text>[B]Isabella[/B] had common enemies with [B]Outremer[/B].</Text>
+		</Row>
+		
+		<Row Tag="LOC_UNLOCK_GAMEPLAY_UNLOCK_TCS_OUTREMER_TOOLTIP">
+			<Text>Have 2 simultaneous [B]Alliances[/B].</Text>
+		</Row>
+		
+		<Row Tag="LOC_UNLOCK_PLAY_AS_TCS_OUTREMER_DESCRIPTION">
+			<Text>Play as [B]Outremer[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_PLAY_AS_TCS_OUTREMER_FRENCH_EMPIRE_TOOLTIP">
+			<Text>[B]Outremer[/B] was ruled by [B]Frankish[/B] nobility.</Text>
+		</Row>
+	</EnglishText>
+</Database>

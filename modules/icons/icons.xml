@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Database>
+	<IconDefinitions>
+		<!-- Outremer -->
+		<Row>
+			<ID>ICON_CIVILIZATION_TCS_OUTREMER</ID>
+			<Path>fs://game/civ_sym_tcs_outremer</Path>
+		</Row>
+		<Row>
+			<ID>CIVILIZATION_TCS_OUTREMER</ID>
+			<Path>fs://game/civ_sym_tcs_outremer.png</Path>
+		</Row>
+		<Row>
+			<ID>CIVILIZATION_TCS_OUTREMER</ID>
+			<Context>BACKGROUND</Context>
+			<Path>fs://game/lsbg_norman_1080</Path>
+			<IconSize>1080</IconSize>
+		</Row>
+		<Row>
+			<ID>CIVILIZATION_TCS_OUTREMER</ID>
+			<Context>BACKGROUND</Context>
+			<Path>fs://game/lsbg_norman_720</Path>
+			<IconSize>720</IconSize>
+		</Row>
+		
+		<Row>
+			<ID>UNIT_TCS_PILGRIM</ID>
+			<Path>fs://game/unitflag_tcs_pilgrim.png</Path>
+			<Context>DEFAULT</Context>
+		</Row>
+		<Row>
+            <ID>UNIT_TCS_CRUSADER</ID>
+            <Path>fs://game/unitflag_tcs_crusader.png</Path>
+            <Context>DEFAULT</Context>
+        </Row>
+		<Row>
+            <ID>UNIT_TCS_CRUSADER_2</ID>
+            <Path>fs://game/unitflag_tcs_crusader.png</Path>
+            <Context>DEFAULT</Context>
+        </Row>
+		<Row>
+            <ID>UNIT_TCS_CRUSADER_3</ID>
+            <Path>fs://game/unitflag_tcs_crusader.png</Path>
+            <Context>DEFAULT</Context>
+        </Row>
+		<Row>
+            <ID>BUILDING_TCS_COMMANDERY</ID>
+            <Path>fs://game/buildicon_tcs_commandery.png</Path>
+            <Context>DEFAULT</Context>
+        </Row>
+	</IconDefinitions>
+	<!--<IconAliases>
+		<Row ID="TCS_DEUS_VULT_MOD_COMMANDER_PROMOTION" OtherID="MOD_UNIT_UPGRADE" />
+		<Row ID="TCS_DEUS_VULT_MOD_DISTANT_LANDS_FOOD" OtherID="MOD_TILE_YIELD_BONUS" />
+		<Row ID="TCS_DEUS_VULT_MOD_DISTANT_LANDS_INFLUENCE" OtherID="MOD_TILE_YIELD_BONUS" />
+		<Row ID="TCS_PAX_ET_TREUGA_DEI_MOD_ADJUST_MILITARY_AID" OtherID="MOD_GENERIC_BONUS" />
+		<Row ID="TCS_ADVOCATUS_SANCTI_SEPULCHRI_MOD_RELIC_SLOT_TEMPLE" OtherID="MOD_GENERIC_BONUS" />
+		<Row ID="TCS_ADVOCATUS_SANCTI_SEPULCHRI_MOD_RELIC" OtherID="MOD_GREATWORK_RELIC" />
+		<Row ID="TCS_ADVOCATUS_SANCTI_SEPULCHRI_MOD_COMMANDERY_INFLUENCE" OtherID="MOD_TILE_YIELD_BONUS" />
+	</IconAliases>-->
+</Database>
