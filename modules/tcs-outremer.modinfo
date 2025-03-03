@@ -39,8 +39,8 @@
 					<Item>assets/icons/unitflag_tcs_pilgrim.png</Item>
 					<Item>assets/icons/buildicon_tcs_commandery.png</Item>
 					<Item>assets/icons/cult_tcs_outremer.png</Item>
-					<Item>assets/backgrounds/lsbg_tcs_outremer_720.png</Item>
-					<Item>assets/backgrounds/lsbg_tcs_outremer_1080.png</Item>
+					<Item>assets/backgrounds/lsbg_tcs_outremer_720</Item>
+					<Item>assets/backgrounds/lsbg_tcs_outremer_1080</Item>
                 </ImportFiles>
 				<UpdateDatabase>
 					<Item>data/civilizations-legacy.xml</Item>
@@ -118,8 +118,8 @@
 					<Item>assets/icons/unitflag_tcs_pilgrim.png</Item>
 					<Item>assets/icons/buildicon_tcs_commandery.png</Item>
 					<Item>assets/icons/cult_tcs_outremer.png</Item>
-					<Item>assets/backgrounds/lsbg_tcs_outremer_720.png</Item>
-					<Item>assets/backgrounds/lsbg_tcs_outremer_1080.png</Item>
+					<Item>assets/backgrounds/lsbg_tcs_outremer_720</Item>
+					<Item>assets/backgrounds/lsbg_tcs_outremer_1080</Item>
                 </ImportFiles>
 				<UpdateDatabase>
 					<Item>config/config.xml</Item>
