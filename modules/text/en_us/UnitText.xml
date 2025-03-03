@@ -31,7 +31,7 @@
 			<Text>Pilgrim</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TCS_PILGRIM_DESCRIPTION">
-			<Text>Outremer Unique Settler. When a Town is created in Distant Lands, it converts to your Religion. May move through Foreign Lands. Can not be Trained.</Text>
+			<Text>Outremer Unique Settler. When a Town is created in Distant Lands, it converts to your Religion. May move through Foreign Lands. Cannot be Trained.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_TCS_PILGRIM_DESCRIPTION">
 			<Text>When a Town is created in Distant Lands, it converts to your Religion.</Text>
