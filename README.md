@@ -4,8 +4,6 @@ Official releases hosted on ![Civfanatics](https://forums.civfanatics.com/resour
 NOTE: This is an alpha release, with several unfinished parts due to current modding limitations.
 * Unique units and infrastructure use fallback models - we do not yet have access (or have not figured out how) to define models yet
 * I have not yet figured out how to add custom unit icons to the Tech tree
-* There are a few text areas I have not yet completed.
-* I have not yet implemented a gameplay unlock. Please review the Unlocks section below to see how to currently access Outremer.
 
 ## Design
 I wanted to avoid a meme approach to Outremer which focused on bonuses against other religions. Outremer's history and context is fascinating, and it's far more interesting to try and reflect the circumstances of its creation and existence in the design.
@@ -56,6 +54,7 @@ Coast
 * Play as **Charlemagne**.
 * Play as **Isabella**.
 * Play as **Rome**.
+* Have 2 simultaneous **Alliances** in the **Antiquity Age**.
 * Unlocks the **French Empire** in the **Modern Age**. 
 
 ## Installation
