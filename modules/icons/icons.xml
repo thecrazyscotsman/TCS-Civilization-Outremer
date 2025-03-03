@@ -13,13 +13,13 @@
 		<Row>
 			<ID>CIVILIZATION_TCS_OUTREMER</ID>
 			<Context>BACKGROUND</Context>
-			<Path>fs://game/lsbg_norman_1080</Path>
+			<Path>fs://game/lsbg_tcs_outremer_1080</Path>
 			<IconSize>1080</IconSize>
 		</Row>
 		<Row>
 			<ID>CIVILIZATION_TCS_OUTREMER</ID>
 			<Context>BACKGROUND</Context>
-			<Path>fs://game/lsbg_norman_720</Path>
+			<Path>fs://game/lsbg_tcs_outremer_720</Path>
 			<IconSize>720</IconSize>
 		</Row>
 		
