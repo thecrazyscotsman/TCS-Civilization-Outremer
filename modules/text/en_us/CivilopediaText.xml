@@ -3,29 +3,37 @@
 	<EnglishText>
 		
 		<!-- UNIQUE INFRASTRUCTURE-->
-		<!--<Row Tag="LOC_PEDIA_PAGE_IMPROVEMENT__CHAPTER_HISTORY_PARA_1">
-			<Text></Text>
-		</Row>-->
+		<Row Tag="LOC_PEDIA_PAGE_BUILDING_TCS_COMMANDERY_CHAPTER_HISTORY_PARA_1">
+			<Text>Chapter Commanderies, also known as Chapter Houses, served as the base of operations for the monastic Military Orders founded as Catholic religious societies for the protection of Christians and reconquest of lands which were formerly held by Christian nations. These Military Orders include the Knights Hospitiller, Order of the Holy Sepulchre, Knights Templar, and the Order of Saint Lazarus. These Commanderies allowed the Military Orders to establish a presence in a variety of cities across Europe and Palestine, and through these bases provided services to Christians and soldiers fighting for Christendom.</Text>
+		</Row>
+
 		<!-- CIVICS-->
-		<!--<Row Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_TCS_OUTREMER__CHAPTER_HISTORY_PARA_1">
-			<Text></Text>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_TCS_OUTREMER_DEUS_VULT_CHAPTER_HISTORY_PARA_1">
+			<Text>During the Council of Clermont in 1095, Pope Urban II urged the Frankish Christians that once they have re-established peace and righteousness in their own land, they should turn their attention to the East and bring aid to the Christians there, as the Turks had attacked them and had recently conquered the territory of Romania (i.e., Byzantine Anatolia) as far west as the Mediterranean, the part known as the "Arm of Saint George" (the Sea of Marmara), killing and capturing many Christians and destroying churches and devastating the kingdom of God. In order to avoid further loss of territory and even more widespread attacks on Christians, Urban calls on the clergy present to publish his call to arms everywhere, and persuade all people of whatever rank, both nobles and commoners, to go to the aid of the Christians currently under attack.</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_TCS_OUTREMER__CHAPTER_HISTORY_PARA_1">
-			<Text></Text>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_TCS_OUTREMER_DEUS_VULT_CHAPTER_HISTORY_PARA_2">
+			<Text>Concluding his call to arms with "Christ commands it" (Christus autem imperat), Urban defines the crusade both as a defensive just war and as a religious holy war. In some accounts, there was a "dramatic response" by the audience as they burst into spontaneous cries of Deus vult ("God wills it").</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_TCS_OUTREMER__CHAPTER_HISTORY_PARA_1">
-			<Text></Text>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_TCS_OUTREMER_PAX_ET_TREUGA_DEI_CHAPTER_HISTORY_PARA_1">
+			<Text>The Peace and Truce of God (Latin: Pax et treuga Dei) was a movement in the Middle Ages led by the Catholic Church and was one of the most influential mass peace movements in history. The goal of both the Pax Dei and the Treuga Dei was to limit the violence of feuding in the western half of the former Carolingian Empire - following its collapse in the middle of the 9th century - Outremer using the threat of spiritual sanctions. The eastern half of the former Carolingian Empire did not experience the same collapse of central authority, and neither did England. This movement was also marked by popular participation, with many commoners supporting the movement as a solution to the famines, violence, and collapse of the social order around them.</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_TCS_OUTREMER__CHAPTER_HISTORY_PARA_1">
-			<Text></Text>
-		</Row>-->
-		<!-- UNIQUE_UNIT-->
+		<Row Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_TCS_OUTREMER_PAX_ET_TREUGA_DEI_CHAPTER_HISTORY_PARA_2">
+			<Text>The Peace of God was first proclaimed in 989, at the Council of Charroux. It sought to protect ecclesiastical property, agricultural resources and unarmed clerics. The Truce of God, first proclaimed in 1027 at the Council of Toulouges, attempted to limit the days of the week and times of year that the nobility engaged in violence. The movement persisted in some form until the thirteenth century.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_TCS_OUTREMER_PAX_ET_TREUGA_DEI_CHAPTER_HISTORY_PARA_3">
+			<Text>With the advent of the Crusades, the Peace of God and the Truce of God moved in the rhetorical landscape of subverting violence by redirecting it to more "appropriate" areas, such as a holy war in the Middle East against Islam to recapture Jerusalem.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_NODE_CIVIC_EX_TCS_OUTREMER_ADVOCATUS_SANCTI_SEPULCHRI_CHAPTER_HISTORY_PARA_1">
+			<Text>The title of Advocatus Sancti Sepulchri, or Advocate of the Holy Sepulchre, has been ascribed to Godfrey of Bouillon in his role as the first Latin ruler of Jerusalem. In the aftermath of the First Crusade, there was disagreement among the clergy and secular leaders as the leadership of the Kingdom of Jerusalem. There was opposition to the naming of a king over the Holy City and the wearing of a crown in the city where Christ suffered with a crown of thorns. The original sources differ on the actual title assumed by Godfrey. However, it is generally accepted by most modern historians that, once Godfrey was selected to be leader, he declined to be crowned king instead taking the titles of prince (princeps) and advocate or defender of the Holy Sepulchre (advocatus Sancti Sepulchri).</Text>
+		</Row>
+
+		<!-- UNIQUE UNITS-->
 		<Row Tag="LOC_PEDIA_PAGE_UNIT_TCS_CRUSADER_CHAPTER_HISTORY_PARA_1">
-			<Text>Placeholder.</Text>
+			<Text>The Crusades were a series of religious wars sanctioned by the Latin Church in the medieval period. The most commonly known are the campaigns in the Eastern Mediterranean aimed at recovering the Holy Land. Volunteers became Crusaders by taking a public vow and receiving plenary indulgences from the Church. Some were hoping for a mass ascension into heaven at Jerusalem or God's forgiveness for all their sins. Others participated to satisfy feudal obligations, obtain glory and honour or to seek economic and political gain. Most people view Crusaders as heavily armored knights, but the truth is that most Crusaders were footsoldiers, and the vast majority were not of noble birth. Crusading was seen as a way out for many, an opportunity to win a better life, or guarantee a place in the next.</Text>
 		</Row>
 		<!-- UNIQUE_CIVILIAN_UNIT-->
 		<Row Tag="LOC_PEDIA_PAGE_UNIT_TCS_PILGRIM_CHAPTER_HISTORY_PARA_1">
-			<Text>Placeholder.</Text>
+			<Text>Pilgrims have been journeying to Jerusalem for thousands of years. As a holy city for all of the Abrahamic faiths (Judaism, Christianity, and Islam) pilgrimages have sometimes been a religious obligation, but more often a desire to draw closer to the divine by walking in a city directly inhabited by God. During the Crusades, these pilgrimages often took a more martial turn, with peasants and nobility alike whipped into a religious fervor to free "their" holy city from the shackles of another religion. For many, this journey was a one-way trip - sometimes due to poor planning and dangers, but also often due to staying in the holy land once arrived. The Crusader States relied heavily on European immigrants to survive.</Text>
 		</Row>
 		
 		<!-- CIVILIZATION_TCS_OUTREMER -->		

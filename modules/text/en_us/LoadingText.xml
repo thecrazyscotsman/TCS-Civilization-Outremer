@@ -2,10 +2,10 @@
 <Database>
 	<EnglishText>
 		<Row Tag="LOC_LOADING_CIV_INTRO_TEXT_TCS_OUTREMER">
-			<Text>Placeholder.</Text>
+			<Text>Forged in religious fervor, Outremer served as a European outpost in Palestine for nearly 200 years. Founded during the First Crusade, Frankish nobility ruled four small kingdoms whose continued survival depended upon continual resupply by European powers and Muslim disunity. Political will waned, however, and Outremer crumbled before the vibrant Mamluk Sultanate.</Text>
 		</Row>
-		<Row Tag="LOC_LOADING_VO_TCS_OUTREMER">
-			<Text>Placeholder.</Text>
+		<Row Tag="LOC_LOADING_INTRO_TCS_OUTREMER">
+			<Text>The Holy Sepulchre cries for an advocate - Outremer answers.</Text>
 		</Row>
 	</EnglishText>
 </Database>

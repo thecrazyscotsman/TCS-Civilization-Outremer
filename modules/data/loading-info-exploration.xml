@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Database>
 	<LoadingInfo_Civilizations>
-		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_TCS_OUTREMER" BackgroundImageHigh="fs://game/lsbg_tcs_outremer_1080" BackgroundImageLow="fs://game/lsbg_tcs_outremer_720" ForegroundImage="fs://game/civ_line_norman.png" />
+		<Row CivilizationType="CIVILIZATION_TCS_OUTREMER" CivilizationText="LOC_LOADING_CIV_INTRO_TEXT_TCS_OUTREMER" Subtitle="LOC_LOADING_INTRO_TCS_OUTREMER" BackgroundImageHigh="fs://game/lsbg_tcs_outremer_1080" BackgroundImageLow="fs://game/lsbg_tcs_outremer_720" ForegroundImage="fs://game/civ_line_norman.png" />
 	</LoadingInfo_Civilizations>
 </Database>
