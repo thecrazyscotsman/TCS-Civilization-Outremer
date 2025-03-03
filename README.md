@@ -1,7 +1,7 @@
 # Outremer - Exploration Age Civilization
 Official releases hosted on ![Civfanatics](https://forums.civfanatics.com/resources/tcs-outremer-exploration.32002/).
 
-NOTE: This is an alpha release, with several unfinished parts due to current modding limitations.
+NOTE: This is an early release, with several unfinished graphical parts due to current modding limitations.
 * Unique units and infrastructure use fallback models - we do not yet have access (or have not figured out how) to define models yet
 * I have not yet figured out how to add custom unit icons to the Tech tree
 
