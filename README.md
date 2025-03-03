@@ -42,7 +42,7 @@ I wanted to avoid a meme approach to Outremer which focused on bonuses against o
 **Pilgrim:** Unique Settler Unit. When a Town is created in Distant Lands, it converts to your Religion. Can move through Foreign Lands. Cannot be Trained.
 
 ### Unique Military Unit
-**Crusader:** Unique Cavalry Unit. Increased Combat Strength for each active Alliance. Has a charge to spread Religion.
+**Crusader:** Unique Cavalry Unit. Increased Combat Strength for each active Alliance. Ignores Zone of Control.
 
 ### Associated Wonder
 **Notre Dame:** When in a Celebration all Specialists provide +3 Culture. Start a Celebration immediately after constructing this Wonder. Must be adjacent to a River and a District.
