@@ -16,16 +16,25 @@
 		<Row Tag="LOC_UNLOCK_PLAY_AS_ISABELLA_TCS_OUTREMER_TOOLTIP">
 			<Text>[B]Isabella[/B] had common enemies with [B]Outremer[/B].</Text>
 		</Row>
-		
-		<Row Tag="LOC_UNLOCK_GAMEPLAY_UNLOCK_TCS_OUTREMER_TOOLTIP">
-			<Text>Have 2 simultaneous [B]Alliances[/B].</Text>
-		</Row>
-		
+			
 		<Row Tag="LOC_UNLOCK_PLAY_AS_TCS_OUTREMER_DESCRIPTION">
 			<Text>Play as [B]Outremer[/B].</Text>
 		</Row>
 		<Row Tag="LOC_UNLOCK_PLAY_AS_TCS_OUTREMER_FRENCH_EMPIRE_TOOLTIP">
 			<Text>[B]Outremer[/B] was ruled by [B]Frankish[/B] nobility.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNLOCK_TCS_ALLIANCES_DESCRIPTION">
+			<Text>Have 2 simultaneous [B]Alliances[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_TCS_ALLIANCES_OUTREMER_TOOLTIP">
+			<Text>Political and religious [B]Alliances[/B] created [B]Outremer[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_TCS_ALLIANCES_OUTREMER_NARRATIVE">
+			<Text>The emissaries leave, pleased with the declaration of unity they will take back to their homeland. The people begin to dream of a new kingdom, founded by the combined political will of several nations.</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_TCS_ALLIANCES_OUTREMER_UNLOCK">
+			<Text>You have unlocked Outremer by having 2 Alliances.</Text>
 		</Row>
 	</EnglishText>
 </Database>

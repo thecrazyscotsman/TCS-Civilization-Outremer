@@ -13,11 +13,11 @@
 		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" Name="LOC_CIVILIZATION_TCS_OUTREMER_NAME" Description="LOC_UNLOCK_EXPLORATION_CIV_DESCRIPTION" Icon="CIVILIZATION_TCS_OUTREMER" CivUnlock="true"/>
 	</UnlockRewards>
 	<UnlockRequirements>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" RequirementSetId="REQSET_TCS_PLAYER_HAS_2_ALLIANCES" Description="LOC_UNLOCK_TCS_ALLIANCES_DESCRIPTION" Tooltip="LOC_UNLOCK_TCS_ALLIANCES_OUTREMER_TOOLTIP" NarrativeText="LOC_UNLOCK_TCS_ALLIANCES_OUTREMER_NARRATIVE"/>
+		
 		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" RequirementSetId="REQSET_CIV_IS_ROME" Description="LOC_UNLOCK_PLAY_AS_ROME_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_ROME_TCS_OUTREMER_DESCRIPTION"/>
-		
 		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" RequirementSetId="REQSET_LEADER_IS_CHARLEMAGNE" Description="LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_CHARLEMAGNE_TCS_OUTREMER_TOOLTIP"/>
-		
-		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" RequirementSetId="REQSET_LEADER_IS_LAFAYETTE" Description="LOC_UNLOCK_PLAY_AS_LAFAYETTE_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_LAFAYETTE_TCS_OUTREMER_TOOLTIP"/>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" RequirementSetId="REQSET_LEADER_IS_ISABELLA" Description="LOC_UNLOCK_PLAY_AS_ISABELLA_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_ISABELLA_TCS_OUTREMER_TOOLTIP"/>
 		
 		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" RequirementSetId="REQSET_LEADER_IS_ISABELLA" Description="LOC_UNLOCK_PLAY_AS_ISABELLA_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_ISABELLA_TCS_OUTREMER_TOOLTIP"/>
 	</UnlockRequirements>
@@ -26,14 +26,21 @@
 	</UnlockConfigurationValues>
 	<RequirementSets>
 		<InsertOrIgnore RequirementSetId="REQSET_CIV_IS_ROME" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+		<InsertOrIgnore RequirementSetId="REQSET_TCS_PLAYER_HAS_2_ALLIANCES" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
 	</RequirementSets>
 	<Requirements>
 		<InsertOrIgnore RequirementId="REQ_CIV_IS_ROME" RequirementType="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES"/>
+		<InsertOrIgnore RequirementId="REQ_TCS_PLAYER_HAS_2_ALLIANCES" RequirementType="REQUIREMENT_PLAYER_DIPLOMACY_HAS_X_ALLIANCES"/>
+		<InsertOrIgnore RequirementId="REQ_AGE_IS_ANTIQUITY" RequirementType="REQUIREMENT_GAME_AGE_TYPE_MATCH"/>
 	</Requirements>
 	<RequirementArguments>
 		<InsertOrIgnore RequirementId="REQ_CIV_IS_ROME" Name="CivilizationType" Value="CIVILIZATION_ROME"/>
+		<InsertOrIgnore RequirementId="REQ_TCS_PLAYER_HAS_2_ALLIANCES" Name="Amount" Value="2"/>
+		<InsertOrIgnore RequirementId="REQ_AGE_IS_ANTIQUITY" Name="AgeType" Value="AGE_ANTIQUITY"/>
 	</RequirementArguments>
 	<RequirementSetRequirements>
 		<InsertOrIgnore RequirementSetId="REQSET_CIV_IS_ROME" RequirementId="REQ_CIV_IS_ROME"/>
+		<InsertOrIgnore RequirementSetId="REQSET_TCS_PLAYER_HAS_2_ALLIANCES" RequirementId="REQ_TCS_PLAYER_HAS_2_ALLIANCES"/>
+		<InsertOrIgnore RequirementSetId="REQSET_TCS_PLAYER_HAS_2_ALLIANCES" RequirementId="REQ_AGE_IS_ANTIQUITY"/>
 	</RequirementSetRequirements>
 </Database>
