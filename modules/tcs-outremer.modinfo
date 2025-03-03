@@ -6,6 +6,7 @@
 		<Description>LOC_MODULE_TCS_OUTREMER_DESCRIPTION</Description>
 		<Authors>LOC_MODULE_TCS_OUTREMER_AUTHORS</Authors>
 		<Package>MOD</Package>
+		<AffectsSavedGames>1</AffectsSavedGames>
 	</Properties>
 	<Dependencies>
 		<Mod id="base-standard" title="LOC_MODULE_BASE_STANDARD_NAME"/>

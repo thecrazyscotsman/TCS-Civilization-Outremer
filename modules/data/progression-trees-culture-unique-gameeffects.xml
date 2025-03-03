@@ -53,6 +53,6 @@
 		<Argument name="YieldType">YIELD_DIPLOMACY</Argument>
 		<Argument name="Amount">2</Argument>
 		<Argument name="ConstructibleType">BUILDING_TCS_COMMANDERY</Argument>
-		<String context="Description">LOC_MOD_TCS_CIVIC_ADVOCATUS_SANCTI_SEPULCHRI_TIER_2_RELICS_DESCRIPTION</String>
+		<String context="Description">LOC_MOD_TCS_CIVIC_ADVOCATUS_SANCTI_SEPULCHRI_TIER_1_DESCRIPTION</String>
 	</Modifier>
 </GameEffects>
