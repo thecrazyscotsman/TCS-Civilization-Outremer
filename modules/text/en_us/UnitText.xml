@@ -6,16 +6,16 @@
 			<Text>Crusader</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TCS_CRUSADER_BASE_DESCRIPTION">
-			<Text>Outremer Unique Cavalry Unit. +3 Combat Strength for every Alliance. Has 1 charge to Spread Religion. Ignores Zone of Control.</Text>
+			<Text>Outremer Unique Cavalry Unit. +3 Combat Strength for every Alliance, up to a maximum of +6. Ignores Zone of Control.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TCS_CRUSADER_DESCRIPTION">
-			<Text>Tier 1 Outremer Cavalry Unit. +3 Combat Strength for every Alliance. Has 1 charge to Spread Religion. Ignores Zone of Control.</Text>
+			<Text>Tier 1 Outremer Cavalry Unit. +3 Combat Strength for every Alliance, up to a maximum of +6. Ignores Zone of Control.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TCS_CRUSADER_2_DESCRIPTION">
-			<Text>Tier 2 Outremer Cavalry Unit. +3 Combat Strength for every Alliance. Has 1 charge to Spread Religion. Ignores Zone of Control.</Text>
+			<Text>Tier 2 Outremer Cavalry Unit. +3 Combat Strength for every Alliance, up to a maximum of +6. Ignores Zone of Control.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_TCS_CRUSADER_3_DESCRIPTION">
-			<Text>Tier 3 Outremer Cavalry Unit. +3 Combat Strength for every Alliance. Has 1 charge to Spread Religion. Ignores Zone of Control.</Text>
+			<Text>Tier 3 Outremer Cavalry Unit. +3 Combat Strength for every Alliance, up to a maximum of +6. Ignores Zone of Control.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_TCS_CRUSADER_DESCRIPTION">
 			<Text>+3 Combat Strength for every Alliance, up to a maximum of +6.</Text>
