@@ -52,6 +52,7 @@ Coast
 ### Unlocks
 * Play as **Charlemagne**.
 * Play as **Isabella**.
+* Play as **Carthage**.
 * Play as **Rome**.
 * Have 2 simultaneous **Alliances** in the **Antiquity Age**.
 * Unlocks the **French Empire** in the **Modern Age**. 
