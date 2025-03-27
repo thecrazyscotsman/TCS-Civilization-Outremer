@@ -1,5 +1,5 @@
 # Outremer - Exploration Age Civilization
-Official releases hosted on ![Civfanatics](https://forums.civfanatics.com/resources/tcs-outremer-exploration.32002/).
+Official releases hosted on [Civfanatics](https://forums.civfanatics.com/resources/tcs-outremer-exploration.32002/).
 
 NOTE: This is an early release, with several unfinished graphical parts due to current modding limitations.
 * Unique units and infrastructure use fallback models - we do not yet have access (or have not figured out how) to define models yet
@@ -57,6 +57,9 @@ Coast
 * Unlocks the **French Empire** in the **Modern Age**. 
 
 ## Installation
+### Recommended
+It is recommended to use the [CivMods](https://civmods.com/install?modCfId=32002) manager.
+### Manual
 Extract to your Mods folder.
 * **Windows:** %localappdata%\Firaxis Games\Sid Meier's Civilization VII\Mods
 * **MacOS:** ~/Library/Application Support/Civilization VII/Mods
