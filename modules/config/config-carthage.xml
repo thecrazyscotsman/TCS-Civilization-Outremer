@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LeaderCivilizationBias>
+	</LeaderCivilizationBias>
+	<Civilizations>
+	</Civilizations>
+	<CivilizationItems>
+	</CivilizationItems>
+	<CivilizationTags>
+	</CivilizationTags>
+	<CivilizationUnlocks>
+		<Row CivilizationDomain="AntiquityAgeCivilizations" CivilizationType="CIVILIZATION_CARTHAGE" AgeDomain="StandardAges" AgeType="AGE_EXPLORATION" Type="CIVILIZATION_TCS_OUTREMER" Kind="KIND_CIVILIZATION" Name="LOC_CIVILIZATION_TCS_OUTREMER_NAME" Description="LOC_CIVILIZATION_TCS_OUTREMER_DESCRIPTION" Icon="ICON_CIVILIZATION_TCS_OUTREMER"/>
+	</CivilizationUnlocks>
+	<LeaderUnlocks>
+	</LeaderUnlocks>
+</Database>

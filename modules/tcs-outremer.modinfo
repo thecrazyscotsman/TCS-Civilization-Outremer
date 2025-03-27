@@ -5,7 +5,7 @@
 		<Name>LOC_MODULE_TCS_OUTREMER_NAME</Name>
 		<Description>LOC_MODULE_TCS_OUTREMER_DESCRIPTION</Description>
 		<Authors>LOC_MODULE_TCS_OUTREMER_AUTHORS</Authors>
-		<Package>MOD</Package>
+		<Package>Mod</Package>
 		<AffectsSavedGames>1</AffectsSavedGames>
 	</Properties>
 	<Dependencies>
@@ -27,6 +27,15 @@
 		</Criteria>
 		<Criteria id="always">
 			<AlwaysMet></AlwaysMet>
+		</Criteria>
+
+		<!-- Compatibility for Carthage DLC -->
+		<Criteria id="antiquity-carthage-dlc-compat">
+			<ModInUse>carthage</ModInUse>
+			<AgeInUse>AGE_ANTIQUITY</AgeInUse>
+		</Criteria>
+		<Criteria id="carthage-dlc-compat">
+			<ModInUse>carthage</ModInUse>
 		</Criteria>
 	</ActionCriteria>
 	<ActionGroups>
@@ -135,6 +144,25 @@
 					<Item>text/en_us/LoadingText.xml</Item>
 					<Item>text/en_us/UnitText.xml</Item>
 					<Item>text/en_us/UnlockText.xml</Item>
+				</UpdateText>
+			</Actions>
+		</ActionGroup>
+
+		<!-- Compatibility for Carthage DLC -->
+		<ActionGroup id="age-antiquity-carthage-dlc-tcs-outremer" scope="game" criteria="antiquity-carthage-dlc-compat">
+			<Actions>
+				<UpdateDatabase>
+					<Item>data/unlocks-antiquity-carthage.xml</Item>
+				</UpdateDatabase>
+			</Actions>
+		</ActionGroup>
+		<ActionGroup id="shell-carthage-dlc-tcs-outremer" scope="shell" criteria="carthage-dlc-compat">
+			<Actions>
+				<UpdateDatabase>
+					<Item>config/config-carthage.xml</Item>
+				</UpdateDatabase>
+				<UpdateText>
+					<Item>text/en_us/UnlockText-Carthage.xml</Item>
 				</UpdateText>
 			</Actions>
 		</ActionGroup>

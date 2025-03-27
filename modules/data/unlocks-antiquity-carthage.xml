@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<Kinds>
+		<InsertOrIgnore Kind="KIND_UNLOCK"/>
+	</Kinds>
+	<Types>
+		<InsertOrIgnore Type="UNLOCK_CIVILIZATION_TCS_OUTREMER" Kind="KIND_UNLOCK"/>
+	</Types>
+	<Unlocks>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER"/>
+	</Unlocks>
+	<UnlockRewards>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" Name="LOC_CIVILIZATION_TCS_OUTREMER_NAME" Description="LOC_UNLOCK_EXPLORATION_CIV_DESCRIPTION" Icon="CIVILIZATION_TCS_OUTREMER" CivUnlock="true"/>
+	</UnlockRewards>
+	<UnlockRequirements>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" RequirementSetId="REQSET_CIV_IS_CARTHAGE" Description="LOC_UNLOCK_TCS_PLAY_AS_CARTHAGE_DESCRIPTION" Tooltip="LOC_UNLOCK_PLAY_AS_CARTHAGE_TCS_OUTREMER_DESCRIPTION"/>
+	</UnlockRequirements>
+	<UnlockConfigurationValues>
+		<InsertOrIgnore UnlockType="UNLOCK_CIVILIZATION_TCS_OUTREMER" ConfigurationValue="CIVILIZATION_TCS_OUTREMER"/>
+	</UnlockConfigurationValues>
+	<RequirementSets>
+		<InsertOrIgnore RequirementSetId="REQSET_CIV_IS_CARTHAGE" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+	</RequirementSets>
+	<Requirements>
+		<InsertOrIgnore RequirementId="REQ_CIV_IS_CARTHAGE" RequirementType="REQUIREMENT_PLAYER_CIVILIZATION_TYPE_MATCHES"/>
+	</Requirements>
+	<RequirementArguments>
+		<InsertOrIgnore RequirementId="REQ_CIV_IS_CARTHAGE" Name="CivilizationType" Value="CIVILIZATION_CARTHAGE"/>
+	</RequirementArguments>
+	<RequirementSetRequirements>
+		<InsertOrIgnore RequirementSetId="REQSET_CIV_IS_CARTHAGE" RequirementId="REQ_CIV_IS_CARTHAGE"/>
+	</RequirementSetRequirements>
+</Database>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>		
+		<Row Tag="LOC_UNLOCK_PLAY_AS_CARTHAGE_TCS_OUTREMER_DESCRIPTION">
+			<Text>[B]Carthage[/B] was founded by [B]Phoenicians[/B], rulers of [B]Outremer[/B].</Text>
+		</Row>
+		<Row Tag="LOC_UNLOCK_TCS_PLAY_AS_CARTHAGE_DESCRIPTION">
+			<Text>Play as [B]Carthage[/B].</Text>
+		</Row>
+	</EnglishText>
+</Database>
